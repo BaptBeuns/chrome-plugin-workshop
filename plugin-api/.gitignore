@@ -1,0 +1,8 @@
+node_modules/
+# Python
+*.pyc
+# Data files
+*.json
+*.csv
+# VIM swap files
+*.swp

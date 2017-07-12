@@ -1,0 +1,108 @@
+/*For list of persons*/
+#reminiz-plugin-panel div#persons {
+    display:flex;
+    overflow-y:hidden;
+    text-align: center;
+    height: 80px;
+    border: solid transparent;
+}
+#reminiz-plugin-panel div#persons .person {
+    color: #FFFFFF;
+    cursor: pointer;
+    background: rgba(0,0,0,0.82);
+    margin-right: 15px;
+    height: 80px;
+    width: 240px;
+}
+#reminiz-plugin-panel div#persons .person .image {
+    height: 100%;
+    width: 33%;
+    box-shadow: 0px 0px 10px #000;
+    background-size: cover;
+    margin: 0 auto;
+}
+#reminiz-plugin-panel div#persons .person .description {
+    height: 100%;
+    width: 67%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0px 0px 10px #000;
+    background-size: cover;
+    margin: 0 auto;
+}
+#reminiz-plugin-panel div#persons .person .missed {
+    font-weight: bold;
+    font-size: 10pt;
+    color: #FFF;
+    text-shadow: 1px 1px 0px #000;
+    padding-bottom: 5px;
+    opacity: 0.5;
+    height: 20px;
+}
+#reminiz-plugin-panel div#persons .person .name {
+    font-weight: bold;
+    font-size: 10pt;
+    color: #FFF;
+    text-shadow: 1px 1px 0px #000;
+}
+
+#reminiz-plugin-panel div.circle {
+  position: absolute;
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+#reminiz-plugin-panel div.circle.selected {
+  border: 1px solid red;
+}
+
+#reminiz-plugin-panel div.circle:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/*For panel*/
+#reminiz-plugin-panel #panel {
+  width: 30vw;
+  min-width: 300px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transition: all 0.35s ease-in-out 0s;
+  z-index: 2147483648;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#reminiz-plugin-panel span {
+  top: 0;
+}
+#reminiz-plugin-panel #panel .card {
+  color: #FFFFFF;
+  background: rgba(0,0,0,0.82);
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  width: 100%;
+}
+#panel h2 {
+    color: #FFF;
+}
+#panel h2 span {
+  padding-right: 10px;
+}
+#panel h2 i {
+  color: #AEB5BC;
+  font-size: 10pt;
+  width: 8px;
+}
+#panel i.star {
+  cursor: pointer;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}

@@ -1,0 +1,19 @@
+<div data-ng-cloak ng-controller="list" ng-show="celebrities">
+
+        <div id="persons" style="z-index:2147483643;position:absolute;top:{{player.top + player.height - 140}}px; left:{{player.left}}px; max-width:{{player.width}}px;">
+            <div ng-repeat="celebrity in celebrities track by $index" class="person">
+                <div class="pointer-events:all; image col-md-4" style="background-image: url({{celebrity.infos.image_url}})" ng-click="showPanel(celebrity)">
+                </div>
+                <div class="pointer-events:all; description col-md-6" ng-click="showPanel(celebrity)">
+                    <div class="name">{{celebrity.infos.name}}</div>
+                    <div class="character">{{celebrity.infos.character}} > </div>
+                </div>
+            </div>
+        </div>
+
+        <div ng-repeat="celebrity in celebrities track by $index" class="circle-collection">
+            <div ng-show="celebrity" class="image circle {{celebrity.selected}}" style="z-index:2147483642;top:{{player.top + celebrity.location.y * player.height}}px; left:{{player.left + celebrity.location.x * player.width}}px; width:{{celebrity.location.w * player.width}}px; height:{{celebrity.location.h * player.height}}px;" ng-click="showPanel(celebrity)">
+            </div>
+        </div>
+
+</div>

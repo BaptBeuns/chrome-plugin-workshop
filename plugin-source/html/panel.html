@@ -1,0 +1,76 @@
+<div data-ng-cloak id="panel" ng-show="celebrity" ng-controller="detail" ng-init="state='extract'">
+  <style type="text/css">
+    @font-face {
+    font-family: 'Glyphicons Halflings';
+
+    src: url('{{fonts_path}}glyphicons-halflings-regular.eot');
+    src: url('{{fonts_path}}glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('{{fonts_path}}glyphicons-halflings-regular.woff2') format('woff2'), url('{{fonts_path}}glyphicons-halflings-regular.woff') format('woff'), url('{{fonts_path}}glyphicons-halflings-regular.ttf') format('truetype'), url('{{fonts_path}}glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+    }
+  </style>
+
+  <div class="card" id="pictures">
+
+    <div class="row">
+      <div class="col-md-5" ng-if="state=='extract'">
+	<img ng-src="{{celebrity.infos.image_url}}" style="max-width: 200px; max-height: 200px;" alt="Actor" />
+      </div>
+      <div class="col-md-6">
+	<h1 class="uppercase">{{celebrity.infos.name}}</h1> <br />
+      </div>
+      <div class="col-md-2">
+      	<a href={{celebrity.infos.accounts.twitter}}><img ng-src="{{basePluginUrl}}image/Twitter_White.png"></a>
+      </div>
+      <div class="col-md-2">
+	<a href={{celibrity.infos.accounts.facebook}}><img ng-src="{{basePluginUrl}}image/Facebook_White.png"></a>
+      </div>
+      <div class="col-md-2">
+	<a href={{celebrity.infos.accounts.instagram}}><img ng-src="{{basePluginUrl}}image/Instagram_White.png"></a>
+      </div>
+    </div>
+    <br />
+    <div class="row" id="stars" ng-if="state=='extract'">
+      <div class="col-md-5">
+	<h1>
+          <span ng-repeat="n in [1, 2, 3, 4, 5]" class="text-center col-md-1 glyphicon glyphicon-star{{n>celebrity.stars ? '-empty' : ''}}"></span>
+	</h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="social">
+    Social
+    <button type="button" ng-click="state='extract'">extract</button>
+    <button type="button" ng-click="state='bio'">bio</button>
+    <button type="button" ng-click="state='video'">video</button>
+  </div>
+
+  <div ng-switch="state">
+    <div ng-switch-default>
+      <div class="card">
+	<h1>Bio</h1>
+	Vestibulum euismod dolor eu dui varius rhoncus. Quisque elementum gravida arcu at feugiat. Nulla non vehicula lacus, a pretium massa. Fusce volutpat mattis dui, ut ultrices arcu interdum vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et varius ipsum. Nam hendrerit suscipit nisi, ut auctor tellus porta lobortis. Sed at pellentesque ex, et luctus ligula. Vivamus euismod eu magna nec blandit.
+      </div>
+      <div class="card">
+	<h1>News</h1>
+	Vestibulum euismod dolor eu dui varius rhoncus. Quisque elementum gravida arcu at feugiat. Nulla non vehicula lacus, a pretium massa. Fusce volutpat mattis dui, ut ultrices arcu interdum vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et varius ipsum. Nam hendrerit suscipit nisi, ut auctor tellus porta lobortis. Sed at pellentesque ex, et luctus ligula. Vivamus euismod eu magna nec blandit.
+      </div>
+    </div>
+    <div ng-switch-when="video">
+      <div class="card">
+	<h1>To Watch</h1>
+	Vestibulum euismod dolor eu dui varius rhoncus. Quisque elementum gravida arcu at feugiat. Nulla non vehicula lacus, a pretium massa. Fusce volutpat mattis dui, ut ultrices arcu interdum vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et varius ipsum. Nam hendrerit suscipit nisi, ut auctor tellus porta lobortis. Sed at pellentesque ex, et luctus ligula. Vivamus euismod eu magna nec blandit.
+      </div>
+      <div class="card">
+	<h1>Trending</h1>
+	Vestibulum euismod dolor eu dui varius rhoncus. Quisque elementum gravida arcu at feugiat. Nulla non vehicula lacus, a pretium massa. Fusce volutpat mattis dui, ut ultrices arcu interdum vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et varius ipsum. Nam hendrerit suscipit nisi, ut auctor tellus porta lobortis. Sed at pellentesque ex, et luctus ligula. Vivamus euismod eu magna nec blandit.
+      </div>
+      <div class="card">
+	<h1>Coming soon</h1>
+	Vestibulum euismod dolor eu dui varius rhoncus. Quisque elementum gravida arcu at feugiat. Nulla non vehicula lacus, a pretium massa. Fusce volutpat mattis dui, ut ultrices arcu interdum vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et varius ipsum. Nam hendrerit suscipit nisi, ut auctor tellus porta lobortis. Sed at pellentesque ex, et luctus ligula. Vivamus euismod eu magna nec blandit.
+      </div>
+    </div>
+  </div>
+
+  <br />
+
+</div>

@@ -1,0 +1,19 @@
+{
+    "name": "ReminizExtension",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description" : "Covers the video of the page with a red layer.",
+    "content_scripts": [{
+        "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
+        "css": ["css/style.css", "css/bootstrap.css"],
+        "js": ["js/angular.min.js", "js/jquery-3.0.0.min.js", "js/controllers.js", "js/content.js", "js/md5.min.js", "js/fa.js"]
+    }],
+    "web_accessible_resources": [
+        "html/panel.html",
+        "html/list.html",
+        "fonts/glyphicons-halflings-regular.eot", "fonts/glyphicons-halflings-regular.woff", "fonts/glyphicons-halflings-regular.svg", "fonts/glyphicons-halflings-regular.woff2", "fonts/glyphicons-halflings-regular.ttf"
+    ],
+    "permissions": [
+        "https://father02.local:3000/*"
+    ]
+}

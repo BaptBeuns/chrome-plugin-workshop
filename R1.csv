@@ -1,0 +1,2138 @@
+name, type
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 1 Line,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 2 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 3 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 4 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 5 Line,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 6 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 7 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 8 Lines,R1
+INACTIVE - ACXM Financial > Credit > Number of Credit Lines > 9 Lines,R1
+INACTIVE - ACXM Financial > Credit > New Credit Received > $0 - $100,R1
+INACTIVE - ACXM Financial > Credit > New Credit Received > $101 - $300,R1
+INACTIVE - ACXM Financial > Credit > New Credit Received > $301 - $500,R1
+"INACTIVE - ACXM Financial > Credit > New Credit Received > $501 - $1,000",R1
+"INACTIVE - ACXM Financial > Credit > New Credit Received > $1,001 - $3,000",R1
+"INACTIVE - ACXM Financial > Credit > New Credit Received > $3,001 - $5,000",R1
+"INACTIVE - ACXM Financial > Credit > New Credit Received > $5,001 - $9,999",R1
+"INACTIVE - ACXM Financial > Credit > New Credit Received > Greater than $9,999",R1
+INACTIVE - ACXM Demographic > Net Worth > Under $1,R1
+"INACTIVE - ACXM Demographic > Net Worth > $1,000,000 - $1,999,999",R1
+"INACTIVE - ACXM Demographic > Net Worth > $2,000,000 +",R1
+"INACTIVE - ACXM Demographic > Net Worth > $1 - $100,000",R1
+"INACTIVE - ACXM Demographic > Net Worth > $100,000 - $1,000,000",R1
+"INACTIVE - ACXM Demographic > Net Worth > Less than $100,000",R1
+"INACTIVE - ACXM Demographic > Net Worth > $100,000 - $499,999",R1
+"INACTIVE - ACXM Demographic > Net Worth > $500,000 - $999,999",R1
+"INACTIVE - ACXM Demographic > Net Worth > $2,000,000 Plus",R1
+V12 > CORE > Income Range > A-< $10K,R1
+V12 > CORE > Income Range > B-$10K-$19.9K,R1
+V12 > CORE > Income Range > C-$20K-$29.9K,R1
+V12 > CORE > Income Range > D-$30K-$39.9K,R1
+V12 > CORE > Income Range > E-$40K-$49.9K,R1
+V12 > CORE > Income Range > F-$50K-$59.9K,R1
+V12 > CORE > Income Range > G-$60K-$69.9K,R1
+V12 > CORE > Income Range > H-$70K-$79.9K,R1
+V12 > CORE > Income Range > I-$80K-$89.9K,R1
+V12 > CORE > Income Range > J-$90K-$99.9K,R1
+V12 > CORE > Income Range > K-$100K-$149.9K,R1
+V12 > CORE > Income Range > L-$150K - $174.9K,R1
+V12 > CORE > Income Range > M-$175K-$199.9K,R1
+V12 > CORE > Income Range > N-$200K-$249.9K,R1
+V12 > CORE > Income Range > O-$250K+,R1
+V12 > CORE > Income Range <$30K,R1
+V12 > CORE > Income Range $30K-$60K,R1
+V12 > CORE > Income Range $61K-$100K,R1
+V12 > CORE > Income Range >$100K,R1
+V12 > CORE > Investments/Retirement Plans,R1
+V12 > CORE > Wealth 0- Lowest Docile,R1
+V12 > CORE > Wealth 1- 9Th Docile,R1
+V12 > CORE > Wealth 2- 8Th Docile,R1
+V12 > CORE > Wealth 3- 7Th Docile,R1
+V12 > CORE > Wealth 4- 6Th Docile,R1
+V12 > CORE > Wealth 5- 5Th Docile,R1
+V12 > CORE > Wealth 6- 4Th Docile,R1
+V12 > CORE > Wealth 7- 3Rd Docile,R1
+V12 > CORE > Wealth 8- 2Nd Docile,R1
+V12 > CORE > Wealth 9- Top Docile,R1
+V12 > B2B SEGMENTS > Sic4-industry = National Commercial Banks,R1
+V12 > B2B SEGMENTS > Sic4-industry = State Commercial Banks,R1
+V12 > B2B SEGMENTS > Sic4-industry = Federal Savings Institutions,R1
+V12 > B2B SEGMENTS > Sic4-industry = State Credit Unions,R1
+V12 > B2B SEGMENTS > Sic4-industry = Personal Credit Institutions,R1
+V12 > B2B SEGMENTS > Sic4-industry = Miscellaneous Business Credit,R1
+V12 > B2B SEGMENTS > Sic4-industry = Loan Brokers,R1
+V12 > B2B SEGMENTS > Sic4-industry = Title Insurance,R1
+V12 > B2B SEGMENTS > Sic4-industry = Title Abstract Offices,R1
+"V12 > B2B SEGMENTS > Sic4-industry = Holding Companies, Nec",R1
+"V12 > B2B SEGMENTS > Sic4-industry = Trusts, Nec",R1
+V12 > B2B SEGMENTS > Sic4-industry = Real Estate Investment Trusts,R1
+V12 > B2B SEGMENTS > Sic4-industry = Tax Return Preparation Services,R1
+V12 > NEW VOTER & INCOME > Income Range > $1MM-1.99MM,R1
+V12 > NEW VOTER & INCOME > Income Range > $2MM+,R1
+"Stirista > Consumer > Estimated Household Income > Under $10,000 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $10,000-$14,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $15,000-$19,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $20,000-$24,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $25,000-$29,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $30,000-$34,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $35,000-$39,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $40,000-$44,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $45,000-$49,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $50,000-$54,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $55,000-$59,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $60,000-$64,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $65,000-$74,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $75,000-$99,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $100,000-$149,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $150,000-$174,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $175,000-$199,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $200,000-$249,999 HHI",R1
+"Stirista > Consumer > Estimated Household Income > $250,000+ HHI",R1
+Stirista > Consumer > Net Worth > Under $1 Net Worth,R1
+"Stirista > Consumer > Net Worth > $1-$4,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $5,000-$9,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $10,000-$24,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $25,000-$49,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $50,000-$99,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $100,000-$249,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $250,000-$499,999 Net Worth",R1
+"Stirista > Consumer > Net Worth > $499,999+ Net Worth",R1
+Stirista > Consumer > Credit Range > $101-$300 Credit Range,R1
+Stirista > Consumer > Credit Range > $301-$500 Credit Range,R1
+Stirista > Consumer > Credit Range > $501-$1000 Credit Range,R1
+Stirista > Consumer > Credit Range > $1001-$3000 Credit Range,R1
+Stirista > Consumer > Credit Range > $3001-$5000 Credit Range,R1
+Stirista > Consumer > Credit Range > $5001-$9999 Credit Range,R1
+"Stirista > Consumer > Credit Range > $10,000+ Credit Range",R1
+Stirista > Consumer > Credit Range > $0-$100 Credit Range,R1
+Cuebiq > Mobile Audience > Lifestyle > Bar Go-ers,R1
+Cuebiq > Mobile Audience > Lifestyle > Bar Go-ers > Wine Bar Go-ers,R1
+Cuebiq > Mobile Audience > Lifestyle > Bar Go-ers > Lounge Bar Go-ers,R1
+Cuebiq > Mobile Audience > Lifestyle > Bar Go-ers > Pub Go-ers,R1
+Cuebiq > Mobile Audience > Lifestyle > Bar Go-ers > Sports Bar Go-ers,R1
+Cuebiq > Demographic > Work Status > Unemployed,R1
+Cuebiq > Demographic > Average Household Income > Under $20000,R1
+Cuebiq > Demographic > Average Household Income > $20000 > $39999,R1
+Cuebiq > Demographic > Average Household Income > $40000 > $49000,R1
+Cuebiq > Demographic > Average Household Income > $50000 > $74999,R1
+Cuebiq > Demographic > Average Household Income > $75000 > $99999,R1
+Cuebiq > Demographic > Average Household Income > $100000 > $149999,R1
+Cuebiq > Demographic > Average Household Income > $150000 or more,R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $25,000,000+",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $10,000,000 - $24,999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $5,000,000 - $9,999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $3,000,000 - $4,999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $2,000,000 - $2,999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $1,000,000 - $1,999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $750,000 - $999,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $500,000 - $749,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $250,000 - $499,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $100,000 - $249,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $75,000 - $99,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $50,000 - $74,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $25,000 - $49,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $10,000 - $24,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $5,000 - $9,999",R1
+"IXI > Wealth Complete Total Investable Assets > Asset Range $0.01 - $4,999",R1
+IXI > Wealth Complete Total Investable Assets > Asset Range $0,R1
+"IXI > WealthComplete Deposits > Deposit Range $250,000+",R1
+"IXI > WealthComplete Deposits > Deposit Range $100,000 - $249,999",R1
+"IXI > WealthComplete Deposits > Deposit Range $50,000 - $99,999",R1
+"IXI > WealthComplete Deposits > Deposit Range $25,000 - $49,999",R1
+"IXI > WealthComplete Deposits > Deposit Range $10,000 - $24,999",R1
+"IXI > WealthComplete Deposits > Deposit Range $2,500 - $9,999",R1
+"IXI > WealthComplete Deposits > Deposit Range $0.01 - $2,499",R1
+IXI > WealthComplete Deposits > Deposit Range $0,R1
+"IXI > Financial Cohorts > <$100K Assets, Age <35, Major Metro > Starting Out - Getting By > A1",R1
+"IXI > Financial Cohorts > <$100K Assets, Age <35, Major Metro > Starting Out - Financial Challenges > A2",R1
+"IXI > Financial Cohorts > <$100K Assets, Age <35, Major Metro > Starting Out - Planners > A3",R1
+"IXI > Financial Cohorts > <$100K Assets, Age <35, Major Metro > Starting Out - New Investors > A4",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 35-54, Major Metro > Working Class - Financial Challenges > B5",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 35-54, Major Metro > Working Class - Conservative Savers > B6",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 35-54, Major Metro > Working Class - Credit Reliant > B7",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 35-54, Major Metro > Working Class - Investors > B8",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 55-64, Major Metro > Uncertain Future - Financial Challenges > C9",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 55-64, Major Metro > Uncertain Future - Credit Reliant > C10",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 55-64, Major Metro > Uncertain Future - Conservative Savers > C11",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 55-64, Major Metro > Uncertain Future - Investors > C12",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 65+, Major Metro > Social Security Seniors - Minimal Assets > D13",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 65+, Major Metro > Social Security Seniors - Very Elderly > D14",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 65+, Major Metro > Social Security Seniors - Conservative Savers > D15",R1
+"IXI > Financial Cohorts > <$100K Assets, Age 65+, Major Metro > Social Security Seniors - Mixed Investments > D16",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age <35, Major Metro > Youthful Promise - Planners > E17",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age <35, Major Metro > Youthful Promise - Credit Dependent > E18",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age <35, Major Metro > Youthful Promise - Mixed Investments > E19",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age <35, Major Metro > Youthful Promise - Thriving Investors > E20",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 35-54, Major Metro > Rising Stars - Credit-Active Investors > F21",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 35-54, Major Metro > Rising Stars - Retirement Planners > F22",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 35-54, Major Metro > Rising Stars - Savers > F23",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 35-54, Major Metro > Rising Stars - Investors > F24",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 55-64, Major Metro > Safe and Secure - Credit-Active Investors > G25",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 55-64, Major Metro > Safe and Secure - Savers > G26",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 55-64, Major Metro > Safe and Secure - Retirement Planners > G27",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 55-64, Major Metro > Safe and Secure - Investors > G28",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 65+, Major Metro > Respected Seniors - Post-Retirement Mix > H29",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 65+, Major Metro > Respected Seniors - Very Elderly > H30",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Age 65+, Major Metro > Respected Seniors - Complex Investments > H31",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age <35, Major Metro > Young Millionaires - Young Investors > I32",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 35-54, Major Metro > High-Powered Careers - Planners > J33",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 35-54, Major Metro > High-Powered Careers - Accumulators > J34",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 35-54, Major Metro > High-Powered Careers - Investors > J35",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 35-54, Major Metro > High-Powered Careers - High Worth > J36",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 55-64, Major Metro > Successful Executives - Accumulators > K37",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 55-64, Major Metro > Successful Executives - Investors > K38",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 55-64, Major Metro > Successful Executives - Very Wealthy > K39",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 65+, Major Metro > Eminent and Wealthy - Well-Planned Retirement > L40",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 65+, Major Metro > Eminent and Wealthy - Very Elderly > L41",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Age 65+, Major Metro > Eminent and Wealthy - Wealthiest > L42",R1
+"IXI > Financial Cohorts > <$100K Assets, Small City > Strugglers and Strivers - Meager Means > M43",R1
+"IXI > Financial Cohorts > <$100K Assets, Small City > Strugglers and Strivers - Credit Reliant > M44",R1
+"IXI > Financial Cohorts > <$100K Assets, Small City > Strugglers and Strivers - Planners > M45",R1
+"IXI > Financial Cohorts > <$100K Assets, Small City > Strugglers and Strivers - Near Retirement > M46",R1
+"IXI > Financial Cohorts > <$100K Assets, Small City > Strugglers and Strivers - Beginning to Invest > M47",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small City > Mature Mainstream - Deposits and Credit > N48",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small City > Mature Mainstream - Older Conservative > N49",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small City > Mature Mainstream - Retirement Planners > N50",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small City > Mature Mainstream - Older Investors > N51",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Small City > Achievers and Winners - Elderly and Prudent > O52",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Small City > Achievers and Winners - Wealthy Investors > O53",R1
+"IXI > Financial Cohorts > <$100K Assets, Small Town & Rural > Working Small Town - Financial Challenges > P54",R1
+"IXI > Financial Cohorts > <$100K Assets, Small Town & Rural > Working Small Town - Credit Reliant > P55",R1
+"IXI > Financial Cohorts > <$100K Assets, Small Town & Rural > Working Small Town - Conservative Planners > P56",R1
+"IXI > Financial Cohorts > <$100K Assets, Small Town & Rural > Working Small Town - Conservative Investors > P57",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small Town & Rural > Small Town Leaders - Older Conservative > Q58",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small Town & Rural > Small Town Leaders - Retirement Planners > Q59",R1
+"IXI > Financial Cohorts > $100K - $1MM Assets, Small Town & Rural > Small Town Leaders - Older Investors > Q60",R1
+"IXI > Financial Cohorts > $1MM+ Assets, Small Town & Rural > Country Nobility - Wealthy Investors > R61",R1
+IXI > Investment Propensity > Sophisticated Investors - Discount Brokers,R1
+IXI > Investment Propensity > Sophisticated Investors - Full Service Brokers,R1
+IXI > Investment Propensity > Advice-Oriented Investors,R1
+IXI > Investment Propensity > Self-Directed Investors,R1
+IXI > Investment Propensity > IRA Investors,R1
+IXI > Investment Propensity > Mutual Fund Investors,R1
+IXI > Investment Propensity > Individual Stock Investors,R1
+IXI > Investment Propensity > CD Investors,R1
+IXI > Investment Propensity > Fixed-Income Investors,R1
+IXI > Investment Propensity > High-Risk Investors,R1
+IXI > Investment Propensity > Discount Brokerage Investors,R1
+IXI > Investment Propensity > Active Traders,R1
+IXI > Retail Banking Propensity > High Net Worth,R1
+IXI > Retail Banking Propensity > Mass Affluent,R1
+IXI > Retail Banking Propensity > High Deposits,R1
+IXI > Retail Banking Propensity > CD Investors,R1
+IXI > Retail Banking Propensity > MMDA Investors,R1
+IXI > Retail Banking Propensity > Young and On the Road to Wealth,R1
+IXI > Retail Banking Propensity > Active Debit Card Users,R1
+IXI > Retail Banking Propensity > Active Online Bill Payers,R1
+IXI > Retail Banking Propensity > Mass Market and Mass Affluent Checking,R1
+IXI > Retail Banking Propensity > High Checking Account Balance,R1
+"IXI > Small Business Asset > Small Business Asset Range $250,000 - $20,000,000",R1
+"IXI > Small Business Asset > Small Business Assets Range $100,000 - $249,999",R1
+"IXI > Small Business Asset > Small Business Asset Range $50,000 - $99,999",R1
+"IXI > Small Business Asset > Small Business Asset Range $25,000 - $49,999",R1
+"IXI > Small Business Asset > Small Business Asset Range $10,000 - $24,999",R1
+"IXI > Small Business Asset > Small Business Asset Range < $10,000",R1
+"IXI > Income 360 > Income Range $250,000+",R1
+"IXI > Income 360 > Income Range $150,000 - $249,999",R1
+"IXI > Income 360 > Income Range $125,000 - $149,999",R1
+"IXI > Income 360 > Income Range $100,000 - $124,999",R1
+"IXI > Income 360 > Income Range $75,000 - $99,999",R1
+"IXI > Income 360 > Income Range $60,000 - $74,999",R1
+"IXI > Income 360 > Income Range $50,000 - $59,999",R1
+"IXI > Income 360 > Income Range $40,000 - $49,999",R1
+"IXI > Income 360 > Income Range $30,000 - $39,999",R1
+"IXI > Income 360 > Income Range $20,000 - $29,999",R1
+"IXI > Income 360 > Income Range <$20,000",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $200,000+",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $100,000 - $200,000",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $75,000 - $99,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $50,000- $74,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $40,000 - $49,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $30,000- $39,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $20,000 - $29,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range $10,000 - $19,999",R1
+"IXI > Discretionary Spending > Discretionary Spending Range <$10,000",R1
+IXI > Ability to Pay > Highest Ability to Pay > Top 20%,R1
+IXI > Ability to Pay > High Ability to Pay,R1
+IXI > Ability to Pay > Moderate Ability to Pay,R1
+IXI > Ability to Pay > Lowest Ability to Pay > Bottom 20%,R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Tough Start - Young Single Parents > A1",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Tough Start - Young Singles > A2",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Starting Small - Small-Town Families > A3",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Starting Small - Small-Town Singles > A4",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Living on Loans - Young Urban Single Parents > A5",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Young (<35), Living on Loans - Young Urban Singles > A6",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Mid-Life Strugglers - Small-Town Families > B7",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Mid-Life Strugglers - Singles > B8",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Getting By - Small-Town Families > B9",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Getting By - Small-Town Singles and Couples > B10",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Credit Crunched - City Families > B11",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Working Years (35-54), Credit Crunched - City Singles > B12",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Pre-Retirement (55-64), Retiring on Empty - Singles > C13",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Pre-Retirement (55-64), Burdened by Debt - Small-Town Singles > C14",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Pre-Retirement (55-64), Sensible Spenders - Families > C15",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Pre-Retirement (55-64), Sensible Spenders - Small-Town Empty Nesters > C16",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Pre-Retirement (55-64), Sensible Spenders - Urban Pre-Retirement Singles > C17",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Retired (65+), Relying on Aid - Retired Singles > D18",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Retired (65+), Rough Retirement - Small-Town and Rural Seniors > D19",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Retired (65+), Struggling Elders - Small-Town and Rural Singles > D20",R1
+"IXI > Economic Cohorts > <$50K Income, Age > Retired (65+), Modest Means - Urban Retirees > D21",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Credit City - Young Families > E22",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Credit City - Young Singles > E23",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Midscale Mainstream - Small-Town Families > E24",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Midscale Mainstream - Small-Town Singles and Couples > E25",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Getting Ahead - Young City Families > E26",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Young (<35), Getting Ahead - Young City Singles > E27",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Living Simply - Small-Town Families > F28",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Living Simply - Small-Town Singles and Couples > F29",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Credit Rules - Urban Families > F30",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Credit Rules - Urban Singles > F31",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Suburban Stability - Families > F32",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Working Years (35-54), Suburban Stability - Singles and Couples > F33",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Pre-Retirement (55-64), Committed to Credit - Small-Town Couples > G34",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Pre-Retirement (55-64), Striving for Balance - Urban Pre-Retirement Singles > G35",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Pre-Retirement (55-64), Conservative Consumers - Small-Town Empty Nesters > G36",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Pre-Retirement (55-64), Conservative Consumers - Suburban Families > G37",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Pre-Retirement (55-64), Solid Foundation - Suburban Empty Nesters > G38",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Retired (65+), Retired on Credit - City Singles and Couples > H39",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Retired (65+), Safety Net Seniors - Small-Town Retired Couples > H40",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Retired (65+), Nest Egg Elders - Older Retirees > H41",R1
+"IXI > Economic Cohorts > $50K-$100K Income, Age > Retired (65+), Comfortable Retirement - Suburban Singles and Couples > H42",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Charge-It Champs - Young Suburban Families > I43",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Charge-It Champs - Young Suburban Singles > I44",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Confident Futures - Young City Families > I45",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Confident Futures - Young City Singles and Couples > I46",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Material World - Urban Families > I47",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Young (<35), Material World - Urban Singles > I48",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), House of Cards - Suburban Families > J49",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), House of Cards - Suburban Singles and Couples > J50",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), Prudent Professionals - Suburban Families > J51",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), Prudent Professionals - Suburban Singles and Couples > J52",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), Suburban Success - Upscale Families > J53",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Working Years (35-54), Suburban Success - Upscale Singles and Couples > J54",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Pre-Retirement (55-64), Living for Today - Singles and Couples > K55",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Pre-Retirement (55-64), Planners and Savers - Suburban Families > K56",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Pre-Retirement (55-64), Planners and Savers - Suburban Couples > K57",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Pre-Retirement (55-64), Planners and Savers - Urban Singles and Couples > K58",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Pre-Retirement (55-64), Country Club Climbers - Suburban Empty Nesters > K59",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Retired (65+), Comfortable with Credit - Upscale Retirees > L60",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Retired (65+), Rewarding Retirement - Affluent Suburbanites > L61",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Retired (65+), Affluent Elders - Older Upscale Suburbanites > L62",R1
+"IXI > Economic Cohorts > $100-$200K Income, Age > Retired (65+), Established Wealth - Suburban Retirees > L63",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Young (<35), Big Shots - Young Upmarket Urbanites > M64",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Working Years (35-54), Careers First - City Singles > N65",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Working Years (35-54), Executive Spenders - Suburban Families > N66",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Working Years (35-54), Executive Spenders - Suburban Couples > N67",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Pre-Retirement (55-64), Corner Offices - Executive Urban Singles and Couples > O68",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Pre-Retirement (55-64), Champagne Tastes - Executive Empty Nesters > O69",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Retired (65+), Flush Funds - Wealthy Urban Seniors > P70",R1
+"IXI > Economic Cohorts > $200K+ Income, Age > Retired (65+), Diamonds and Pearls - Wealthiest Retirees > P71",R1
+IXI > Economic Spectrum > Affluent > Elite Spenders,R1
+IXI > Economic Spectrum > Affluent > Power Spenders,R1
+IXI > Economic Spectrum > Emerging Affluent > Power Spenders,R1
+IXI > Economic Spectrum > Emerging Affluent > Big Spenders,R1
+IXI > Economic Spectrum > Emerging Affluent > Moderate Spenders,R1
+IXI > Economic Spectrum > Mass Affluent > Big Spenders,R1
+IXI > Economic Spectrum > Mass Affluent > Moderate Spenders,R1
+IXI > Economic Spectrum > Mass Affluent > Light Spenders,R1
+IXI > Economic Spectrum > Midscale > Moderate Spenders,R1
+IXI > Economic Spectrum > Midscale > Light Spenders,R1
+IXI > Economic Spectrum > Midscale > Thrift Spenders,R1
+IXI > Economic Spectrum > Downscale > Light Spenders,R1
+IXI > Economic Spectrum > Downscale > Thrift Spenders,R1
+IXI > Economic Spectrum > Downscale > Sparing Spenders,R1
+IXI > Economic Spectrum > Making Ends Meet > Thrift Spenders,R1
+IXI > Economic Spectrum > Making Ends Meet > Sparing Spenders,R1
+IXI > Economic Spectrum > Making Ends Meet > Minimal Spenders,R1
+IXI > Insurance Propensity > Auto Insurance Propensity Target,R1
+IXI > Insurance Propensity > Likely to Respond to Auto Insurance Propensity Offer,R1
+IXI > Insurance Propensity > High Premium Life Insurance Propensity Target,R1
+IXI > Insurance Propensity > Optimum Auto Insurance Propensity Target,R1
+IXI > Insurance Propensity > Optimum Insurance Propensity Target,R1
+IXI > Insurance Propensity > High Lifetime Value Households,R1
+IXI > Insurance Propensity > Multiple Policy Prospects,R1
+IXI > Insurance Propensity > Likely to respond to Home Insurance Propensity Offer,R1
+IXI > Credit Card Propensity > Premium Credit Card Propensity,R1
+IXI > Credit Card Propensity > Standard Credit Card Propensity,R1
+IXI > Credit Card Propensity > Sub-Prime Credit Card Propensity,R1
+IXI > Credit Card Propensity > Attracted to Low APR Offer,R1
+IXI > Credit Card Propensity > Revolver,R1
+IXI > Credit Card Propensity > Transactor,R1
+IXI > Credit Card Propensity > Optimum Credit Card Propensity Target,R1
+IXI > Credit Card Propensity > Likely to Respond to Credit Card Propensity Offer,R1
+IXI > Credit Card Propensity > Reliable Card Payers,R1
+IXI > Credit Card Propensity > Card Balance Transfer Candidate,R1
+IXI > Mortgage Propensity > Ready to Re-finance - Jumbo Loan,R1
+IXI > Mortgage Propensity > Ready to Re-Finance - Conventional Loan,R1
+IXI > Mortgage Propensity > Likely HELOC Customer,R1
+IXI > Mortgage Propensity > Likely New Mortgage Propensity Customer,R1
+IXI > Mortgage Propensity > Optimum Mortgage Propensity Target,R1
+IXI > Mortgage Propensity > Reliable Mortgage Propensity Payers,R1
+IXI > Student Loan > Likely Student Loan Target,R1
+IXI > Student Loan > Likely Student Loan Consolidation Target,R1
+"Relevate > Automotive > Demographics > Estimated Household Income > $100,000 - $149,999",R1
+"Relevate > Automotive > Demographics > Estimated Household Income > $150,000 - $249,999",R1
+"Relevate > Automotive > Demographics > Estimated Household Income > $250,000 - $349,999",R1
+"Relevate > Automotive > Demographics > Estimated Household Income > $50,000 - $99,999",R1
+"Relevate > Automotive > Demographics > Estimated Household Income > Less Than $50,000",R1
+"Relevate > Automotive > Demographics > Median House Value > $1,000,000 +",R1
+"Relevate > Automotive > Demographics > Median House Value > $100,000 - $149,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $150,000 - $249,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $250,000 - $349,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $350,000 - $499,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $50,000 - $99,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $500,000 - $749,999",R1
+"Relevate > Automotive > Demographics > Median House Value > $750,000 - $999,999",R1
+"Relevate > Automotive > Demographics > Median House Value > Less Than $50,000",R1
+"V12 > New Movers > Home Value > $1,000,000+",R1
+"V12 > New Movers > Home Value > $1,000-$19,000",R1
+"V12 > New Movers > Home Value > $125,000-$149,000",R1
+"V12 > New Movers > Home Value > $150,000-$174,000",R1
+"V12 > New Movers > Home Value > $175,000-$199,000",R1
+"V12 > New Movers > Home Value > $200,000-$249,000",R1
+"V12 > New Movers > Home Value > $20,000-$49,000",R1
+"V12 > New Movers > Home Value > $250,000-$299,000",R1
+"V12 > New Movers > Home Value > $300,000-$399,000",R1
+"V12 > New Movers > Home Value > $400,000-$499,000",R1
+"V12 > New Movers > Home Value > $50,000-$74,000",R1
+"V12 > New Movers > Home Value > $500,000-$749,000",R1
+"V12 > New Movers > Home Value > $75,000-$124,000",R1
+"V12 > New Movers > Home Value > $750,000-$999,000",R1
+"V12 > New Movers > Median Household Income > $1,000-$14,000",R1
+"V12 > New Movers > Median Household Income > $100,000-$124,000",R1
+"V12 > New Movers > Median Household Income > $125,000-$149,000",R1
+"V12 > New Movers > Median Household Income > $15,000-$19,000",R1
+"V12 > New Movers > Median Household Income > $150,000-$199,000",R1
+"V12 > New Movers > Median Household Income > $20,000-$29,000",R1
+"V12 > New Movers > Median Household Income > $200,000-$249,000",R1
+"V12 > New Movers > Median Household Income > $250,000-$399,000",R1
+"V12 > New Movers > Median Household Income > $30,000-$39,000",R1
+"V12 > New Movers > Median Household Income > $40,000-$49,000",R1
+"V12 > New Movers > Median Household Income > $50,000-$59,000",R1
+"V12 > New Movers > Median Household Income > $60,000-$74,000",R1
+"V12 > New Movers > Median Household Income > $75,000-$99,000",R1
+Webbula > Demographic > Credit > New Credit Ranges > $0 - $100,R1
+Webbula > Demographic > Credit > New Credit Ranges > $101 - $300,R1
+Webbula > Demographic > Credit > New Credit Ranges > $301 - $500,R1
+Webbula > Demographic > Credit > New Credit Ranges > $501 - $1000,R1
+Webbula > Demographic > Credit > New Credit Ranges > $1001 - $3000,R1
+Webbula > Demographic > Credit > New Credit Ranges > $3001 - $5000,R1
+Webbula > Demographic > Credit > New Credit Ranges > $5001 - $9999,R1
+Webbula > Demographic > Credit > New Credit Ranges > Greater than $9999,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 800 +,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 750 - 799,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 700 - 749,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 650 - 699,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 600 - 649,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 550 - 599,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 500 - 549,R1
+Webbula > Demographic > Individual > Credit > Modeled Credit Range > 499 or less,R1
+Webbula > Demographic > Housing > House Market Value Range > $1000 - $24999,R1
+Webbula > Demographic > Housing > House Market Value Range > $25000 - $49999,R1
+Webbula > Demographic > Housing > House Market Value Range > $50000 - $74999,R1
+Webbula > Demographic > Housing > House Market Value Range > $75000 - $99999,R1
+Webbula > Demographic > Housing > House Market Value Range > $100000 - $124999,R1
+Webbula > Demographic > Housing > House Market Value Range > $125000 - $149999,R1
+Webbula > Demographic > Housing > House Market Value Range > $150000 - $174999,R1
+Webbula > Demographic > Housing > House Market Value Range > $175000 - $199999,R1
+Webbula > Demographic > Housing > House Market Value Range > $200000 - $224999,R1
+Webbula > Demographic > Housing > House Market Value Range > $225000 - $249999,R1
+Webbula > Demographic > Housing > House Market Value Range > $250000 - $274999,R1
+Webbula > Demographic > Housing > House Market Value Range > $275000 - $299999,R1
+Webbula > Demographic > Housing > House Market Value Range > $300000 - $349999,R1
+Webbula > Demographic > Housing > House Market Value Range > $350000 - $399999,R1
+Webbula > Demographic > Housing > House Market Value Range > $400000 - $449999,R1
+Webbula > Demographic > Housing > House Market Value Range > $450000 - $499999,R1
+Webbula > Demographic > Housing > House Market Value Range > $500000 - $749999,R1
+Webbula > Demographic > Housing > House Market Value Range > $750000 - $999999,R1
+Webbula > Demographic > Housing > House Market Value Range > $1000000 +,R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $0 - $24,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $25,000 - $49,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $50,000 - $74,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $75,000 - $99,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $100,000 - $149,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $150,000 - $199,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $200,000 - $249,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $250,000 - $299,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $300,000 - $349,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $350,000 - $399,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $400,000 - $449,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $450,000 - $499,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $500,000 - $549,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $550,000 - $599,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $600,000 - $649,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $650,000 - $699,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $700,000 - $749,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > $750,000 - $799,999",R1
+"Webbula > Financial > Mortgage > Mortgage History > Most Recent > Mortgage Amount Range > Greater than $799,999",R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 0% - 1%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 1.1% - 2%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 2.1% - 3%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 3.1% - 4%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 4.1% - 5%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 5.1% - 6%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 6.1% - 7%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 7.1% - 8%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 8.1% - 9%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 9.1% - 10%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 10.1% - 11%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 11.1% - 12%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 12.1% - 13%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 13.1% - 14%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 14.1% - 15%,R1
+Webbula > Financial > Mortgage > Mortgage History > Most Recent > Interest Rate Range > 15.1% - 16%,R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $0 - $24,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $25,000 - $49,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $50,000 - $74,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $75,000 - $99,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $100,000 - $149,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $150,000 - $199,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $200,000 - $249,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $250,000 - $299,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $300,000 - $349,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $350,000 - $399,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $400,000 - $449,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $450,000 - $499,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $500,000 - $549,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $550,000 - $599,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $600,000 - $649,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $650,000 - $699,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $700,000 - $749,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > $750,000 - $799,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Prospector Home Value Range > Greater than $799,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $0 - $24,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $25,000 - $49,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $50,000 - $74,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $75,000 - $99,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $100,000 - $149,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $150,000 - $199,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $200,000 - $249,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $250,000 - $299,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $300,000 - $349,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $350,000 - $399,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $400,000 - $449,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $450,000 - $499,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $500,000 - $549,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $550,000 - $599,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $600,000 - $649,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $650,000 - $699,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $700,000 - $749,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > $750,000 - $799,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Mortgage Amount Range > Greater than $799,999",R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 0% - 1%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 1.1% - 2%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 2.1% - 3%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 3.1% - 4%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 4.1% - 5%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 5.1% - 6%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 6.1% - 7%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 7.1% - 8%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 8.1% - 9%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 9.1% - 10%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 10.1% - 11%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 11.1% - 12%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 12.1% - 13%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 13.1% - 14%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 14.1% - 15%,R1
+Webbula > Financial > Mortgage > Initial Purchase > Interest Rate Range > 15.1% - 16%,R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $0 - $24,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $25,000 - $49,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $50,000 - $74,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $75,000 - $99,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $100,000 - $149,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $150,000 - $199,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $200,000 - $249,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $250,000 - $299,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $300,000 - $349,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $350,000 - $399,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $400,000 - $449,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $450,000 - $499,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $500,000 - $549,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $550,000 - $599,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $600,000 - $649,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $650,000 - $699,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $700,000 - $749,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > $750,000 - $799,999",R1
+"Webbula > Financial > Mortgage > Initial Purchase > Purchase Price Range > Greater than $799,999",R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Generals Last Four Even Years > 0,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Generals Last Four Even Years > 1,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Generals Last Four Even Years > 2,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Generals Last Four Even Years > 3,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Generals Last Four Even Years > 4,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 0,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 1,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 2,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 3,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 4,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 5,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 6,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 7,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Overall > 8,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Primaries Last Four Even Years > 0,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Primaries Last Four Even Years > 1,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Primaries Last Four Even Years > 2,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Primaries Last Four Even Years > 3,R1
+L2 Voter Data > Individual Demographics > Voting History > Vote Frequency Primaries Last Four Even Years > 4,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2008 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2008 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2008 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2008 Presidential Primary > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2008 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2009 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2009 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2009 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2009 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2010 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2010 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2010 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2010 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2011 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2011 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2011 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2011 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2012 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2012 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2012 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2012 Presidential Primary > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2012 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2013 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2013 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2013 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2013 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2014 General & Primary > Both,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2014 General & Primary > General Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2014 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2014 Special/Municipal/Runoff/Other > Yes,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2015 General & Primary > Primary Only,R1
+L2 Voter Data > Individual Demographics > Voting History > Voting 2015 Special/Municipal/Runoff/Other > Yes,R1
+"Stirista > Consumer > Home Value > $1,000-$24,999 Home Value",R1
+"Stirista > Consumer > Home Value > $25,000-$49,999 Home Value",R1
+"Stirista > Consumer > Home Value > $50,000-$74,999 Home Value",R1
+"Stirista > Consumer > Home Value > $75,000-$99,999 Home Value",R1
+"Stirista > Consumer > Home Value > $100,000-$124,999 Home Value",R1
+"Stirista > Consumer > Home Value > $125,000-$149,999 Home Value",R1
+"Stirista > Consumer > Home Value > $150,000-$174,999 Home Value",R1
+"Stirista > Consumer > Home Value > $175,000-$199,999 Home Value",R1
+"Stirista > Consumer > Home Value > $200,000-$224,999 Home Value",R1
+"Stirista > Consumer > Home Value > $225,000-$249,999 Home Value",R1
+"Stirista > Consumer > Home Value > $250,000-$274,999 Home Value",R1
+"Stirista > Consumer > Home Value > $275,000-$299,999 Home Value",R1
+"Stirista > Consumer > Home Value > $300,000-$349,999 Home Value",R1
+"Stirista > Consumer > Home Value > $350,000-$399,999 Home Value",R1
+"Stirista > Consumer > Home Value > $400,000-$449,999 Home Value",R1
+"Stirista > Consumer > Home Value > $450,000-$499,999 Home Value",R1
+"Stirista > Consumer > Home Value > $500,000-$749,999 Home Value",R1
+"Stirista > Consumer > Home Value > $750,000-$999,999 Home Value",R1
+"Stirista > Consumer > Home Value > $1,000,000+ Home Value",R1
+Stirista > Consumer > Custom > All One Percenters,R1
+Stirista > Consumer > Animal Welfare > Animal Welfare Volunteer/Donor High Income,R1
+Stirista > Consumer > Animal Welfare > Animal Welfare Volunteer/Donor Middle Income,R1
+Stirista > Consumer > Donations > Arts/Culture Donor - High Income,R1
+Stirista > Consumer > Donations > Arts/Culture Donor - Middle Income,R1
+Stirista > Consumer > Dontaions > Children's Cause Volunteer/Donor High Income,R1
+Stirista > Consumer > Dontaions > Children's Cause Volunteer/Donor Middle Income,R1
+Stirista > Consumer > Empty Nesters > High Income,R1
+Stirista > Consumer > Empty Nesters > Middle Income,R1
+Stirista > Consumer > Entrepreneurial Women > High Income,R1
+Stirista > Consumer > Entrepreneurial Women > Low Income,R1
+Stirista > Consumer > Entrepreneurial Women > Middle Income,R1
+Stirista > Consumer > Donations > Environmental Donors High Income,R1
+Stirista > Consumer > Donations > Environmental Donors Middle Income,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 500-549,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 550-599,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 600-649,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 650-699,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 700-749,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 750-799,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: 800+,R1
+Stirista > Consumer > Estimated Credit > Estimated Credit Score: under 499,R1
+Stirista > Consumer > Donations > Health Cause Donor High Income,R1
+Stirista > Consumer > Donations > Health Cause Donor Middle Income,R1
+Stirista > Consumer > Travel > High Income Jetsetters,R1
+Stirista > Consumer > Dontaions > International Aid Donor High Income,R1
+Stirista > Consumer > Dontaions > International Aid Donor Middle Income,R1
+Stirista > Consumer > Travel > Low Income Jetsetters,R1
+Stirista > Consumer > Travel > Medium Income Jetsetters,R1
+Stirista > Consumer > Home Owner > Million Dollar Homeowners,R1
+Stirista > Consumer > Donations > High Income Political Donor,R1
+Stirista > Consumer > Donations > Middle Income Political Donor,R1
+Stirista > Consumer > Donations > Religious Cause Donor High Income,R1
+Stirista > Consumer > Donations > Religious Cause Donor Middle Income,R1
+Stirista > Consumer > Donations > Veteran's Cause Donor High Income,R1
+Stirista > Consumer > Donations > Veteran's Cause Donor Middle Income,R1
+Stirista > Consumer > White-Collar Working Class > High Income,R1
+Stirista > Consumer > White-Collar Working Class > Low Income,R1
+Stirista > Consumer > White-Collar Working Class > Middle Income,R1
+Stirista > Consumer > Young Professionals > High Income,R1
+Stirista > Consumer > Young Professionals > Low Income,R1
+Stirista > Consumer > Young Professionals > Middle Income,R1
+Cuebiq > Mobile Audience > Entertainment > Casinos and Betting Shops Visitors,R1
+Cuebiq > Mobile Audience > Entertainment > Casinos and Betting Shops Visitors > Atlantic City Casinos,R1
+Cuebiq > Mobile Audience > Entertainment > Casinos and Betting Shops Visitors > Horse Racetracks,R1
+Cuebiq > Mobile Audience > Entertainment > Casinos and Betting Shops Visitors > Las Vegas Casinos,R1
+Cuebiq > Mobile Audience > Lifestyle > Wine Lovers,R1
+NetWise Data > Consumers that do not have positive discretionary income,R1
+NetWise Data > Consumers that have between 0 and $15K in discretionary income,R1
+NetWise Data > Consumers that have between $15K and 30K in discretionary income,R1
+NetWise Data > Consumers that have between $30K and 50K in discretionary income,R1
+NetWise Data > Consumers that have between $50K and 75K in discretionary income,R1
+NetWise Data > Consumers that have between $75K and 100K in discretionary income,R1
+NetWise Data > Consumers that have over $100K in discretionary income,R1
+NetWise Data > Household incomes less than $25K,R1
+NetWise Data > Household incomes between $25K and $40K,R1
+NetWise Data > Household incomes between $40K and $50K,R1
+NetWise Data > Household incomes between $50K and $75K,R1
+NetWise Data > Household incomes between $75K and $100K,R1
+NetWise Data > Household incomes between $100K and $125K,R1
+NetWise Data > Household incomes between $125K and $150K,R1
+NetWise Data > Household incomes between $150K and $200K,R1
+NetWise Data > Household incomes between $200K and $250K,R1
+NetWise Data > Household incomes greater than $250K,R1
+NetWise Data > Richest 10% of the Nation,R1
+NetWise Data > Richest 20% of the Nation,R1
+NetWise Data > Poorest 20% of the Nation,R1
+NetWise Data > Poorest 10% of the Nation,R1
+NetWise Data > Consumers that are experiencing an income increase between 5 and 10%,R1
+NetWise Data > Consumers that are experiencing an income increase between 10 and 20%,R1
+NetWise Data > Consumers that are experiencing an income increase greater than 20%,R1
+NetWise Data > Consumers that are experiencing an income decrease between 5 and 10%,R1
+NetWise Data > Consumers that are experiencing an income decrease between 10 and 20%,R1
+NetWise Data > Consumers that are experiencing an income decrease greater than 20%,R1
+NetWise Data > Family household with sufficient income for vacationing,R1
+Epsilon > Charitable Donors > High Dollar Non-Religious Donors > Highly Likely,R1
+Epsilon > Charitable Donors > High Dollar Non-Religious Donors > Likely,R1
+Epsilon > Charitable Donors > High Dollar Non-Religious Donors > Unlikely,R1
+Epsilon > Charitable Donors > High Dollar Religious Donors > Highly Likely,R1
+Epsilon > Charitable Donors > High Dollar Religious Donors > Likely,R1
+Epsilon > Charitable Donors > High Dollar Religious Donors > Unlikely,R1
+"Epsilon > Demographics > Household Income (HHI) > $ 0 - $ 14,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $15,000 - $19,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $20,000 - $29,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $30,000 - $39,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $40,000 - $49,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $50,000 - $74,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $75,000 - $99,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $100,000 - $124,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $125,000 - $149,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $150,000 - $174,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $175,000 - $199,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $200,000 - $249,999",R1
+"Epsilon > Demographics > Household Income (HHI) > $250,000 or more",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > Less than $14,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $15,000 - $19,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $20,000 - $24,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $25,000 - $29,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $30,000 - $34,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $35,000 - $39,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $40,000 - $44,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $45,000 - $49,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $50,000 - $54,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $55,000 - $59,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $60,000 - $64,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $65,000 - $69,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $70,000 - $74,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $75,000 - $79,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $80,000 - $84,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $85,000 - $89,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $90,000 - $94,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $95,000 - $99,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $100,000 - $104,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $105,000 - $109,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $110,000 - $114,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $115,000 - $119,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $120,000 - $124,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $125,000 - $129,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $130,000 - $134,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $135,000 - $139,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $140,000 - $144,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $145,000 - $149,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $150,000 - $159,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $160,000 - $169,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $170,000 - $179,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $180,000 - $189,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $190,000 - $199,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $200,000 - $224,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $225,000 - $249,999",R1
+"Epsilon > Demographics > Household Income (HHI) - Narrow Band > $250,000 or more",R1
+Epsilon > Epsilon Niches > Already Affluent,R1
+Epsilon > Epsilon Niches > Big Spender Parents,R1
+Epsilon > Epsilon Niches > Chic Society,R1
+Epsilon > Epsilon Niches > Doing Well and Donating,R1
+Epsilon > Epsilon Niches > Easy Street,R1
+Epsilon > Epsilon Niches > Feathering-The-Nest,R1
+Epsilon > Epsilon Niches > Go-Go Families,R1
+Epsilon > Epsilon Niches > Home Hoppers,R1
+Epsilon > Epsilon Niches > Ira Spenders,R1
+Epsilon > Epsilon Niches > Just Sailing Along,R1
+Epsilon > Epsilon Niches > Kiddie Kastles,R1
+Epsilon > Epsilon Niches > Loose Change,R1
+Epsilon > Epsilon Niches > Mid-Life Munchkins,R1
+Epsilon > Epsilon Niches > Nice & Easy Living,R1
+Epsilon > Epsilon Niches > Oodles Of Offspring,R1
+"Epsilon > Epsilon Niches > Parks, Parts & Playgrounds",R1
+Epsilon > Epsilon Niches > Quiet Homebodies,R1
+Epsilon > Epsilon Niches > Resourceful Realists,R1
+Epsilon > Epsilon Niches > Still Going Strong,R1
+Epsilon > Epsilon Niches > Tireless and On the Move,R1
+Epsilon > Epsilon Niches > Undaunted Do-It-Yourselfers,R1
+Epsilon > Epsilon Niches > Value-Focused,R1
+Epsilon > Epsilon Niches > Working Hard,R1
+Epsilon > Epsilon Niches > X-Tra Time On Their Hands,R1
+Epsilon > Epsilon Niches > Young-At-Heart,R1
+Epsilon > Epsilon Niches > Zone of Contentment,R1
+"Epsilon > Financials > First Mortgage Amount > 0 to $100,000",R1
+"Epsilon > Financials > First Mortgage Amount > $100,000 to $199,000",R1
+"Epsilon > Financials > First Mortgage Amount > $200,000 to $299,000",R1
+"Epsilon > Financials > First Mortgage Amount > $300,000 to $399,000",R1
+"Epsilon > Financials > First Mortgage Amount > $400,000 to $499,000",R1
+"Epsilon > Financials > First Mortgage Amount > $500,000 to $749,000",R1
+"Epsilon > Financials > First Mortgage Amount > $750,000+",R1
+Epsilon > Financials > Net Worth > Less than $25k,R1
+"Epsilon > Financials > Net Worth > $25,000 - $49,999",R1
+"Epsilon > Financials > Net Worth > $50,000 - $74,999",R1
+"Epsilon > Financials > Net Worth > $75,000 - $99,999",R1
+"Epsilon > Financials > Net Worth > $100,000 - $149,999",R1
+"Epsilon > Financials > Net Worth > $150,000 - $249,999",R1
+"Epsilon > Financials > Net Worth > $250,000 - $499,999",R1
+"Epsilon > Financials > Net Worth > $500,000 - $749,999",R1
+"Epsilon > Financials > Net Worth > $750,000 - $999,999",R1
+"Epsilon > Financials > Net Worth > $1,000,000 or more",R1
+Epsilon > Financials > Pays All Bills on Time > Most Likely,R1
+Epsilon > Financials > Pays All Bills on Time > More Than Likely,R1
+Epsilon > Financials > Pays All Bills on Time > Average,R1
+Epsilon > Financials > Pays All Bills on Time > Unlikely,R1
+"Epsilon > Financials > Second Mortgage Amount > 0 to $49,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $50,000 to $99,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $100,000 to $199,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $200,000 to $299,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $300,000 to $399,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $400,000 to $499,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $500,000 to $749,999",R1
+"Epsilon > Financials > Second Mortgage Amount > $750,000+",R1
+"Epsilon > Financials > Total Cash & Investment Resources > < $25,000",R1
+"Epsilon > Financials > Total Cash & Investment Resources > $25,000 - $99,999",R1
+"Epsilon > Financials > Total Cash & Investment Resources > $100,000 - $499,999",R1
+"Epsilon > Financials > Total Cash & Investment Resources > $500,000+",R1
+Epsilon > Home & Real Estate > Home Equity Available > Positive Equity,R1
+Epsilon > Home & Real Estate > Home Equity Available > Zero or Negative Equity,R1
+Epsilon > Home & Real Estate > Home Purchase Price > $0 - $100k,R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $101,000 - $200,000",R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $201,000 - $300,000",R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $301,000 - $400,000",R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $401,000 - $500,000",R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $501,000 - $1,000,000",R1
+"Epsilon > Home & Real Estate > Home Purchase Price > $1,000,000+",R1
+"Epsilon > Home & Real Estate > Home Market Value > $101,000 - $200,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > $201,000 - $300,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > $301,000 - $400,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > $401,000 - $500,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > $501,000 - $1,000,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > < $100,000",R1
+"Epsilon > Home & Real Estate > Home Market Value > $1,000,000+",R1
+TruSignal > Demographics > Generation > Millennial $60K + Income,R1
+GOP DataTrust > DT_18-29 > 0,R1
+GOP DataTrust > DT_18-29 > 1,R1
+GOP DataTrust > DT_2012_Democratic_General_Voters > 0,R1
+GOP DataTrust > DT_2012_Democratic_General_Voters > 1,R1
+GOP DataTrust > DT_2012_Democratic_Primary_Voters > 0,R1
+GOP DataTrust > DT_2012_Democratic_Primary_Voters > 1,R1
+GOP DataTrust > DT_2012_General_Voters > 0,R1
+GOP DataTrust > DT_2012_General_Voters > 1,R1
+GOP DataTrust > DT_2012_Independent_General_Voters > 0,R1
+GOP DataTrust > DT_2012_Independent_General_Voters > 1,R1
+GOP DataTrust > DT_2012_Independent_Primary_Voters > 0,R1
+GOP DataTrust > DT_2012_Independent_Primary_Voters > 1,R1
+GOP DataTrust > DT_2012_Primary_Voters > 0,R1
+GOP DataTrust > DT_2012_Primary_Voters > 1,R1
+Data Trust > DT_2012_Republican_General_Voters > 0,R1
+GOP DataTrust > DT_2012_Republican_General_Voters > 1,R1
+GOP DataTrust > DT_2012_Republican_Primary_Voters > 0,R1
+GOP DataTrust > DT_2012_Republican_Primary_Voters > 1,R1
+GOP DataTrust > DT_2014_Democratic_General_Voters > 0,R1
+GOP DataTrust > DT_2014_Democratic_General_Voters > 1,R1
+GOP DataTrust > DT_2014_Democratic_Primary_Voters > 0,R1
+GOP DataTrust > DT_2014_Democratic_Primary_Voters > 1,R1
+GOP DataTrust > DT_2014_General_Voters > 0,R1
+GOP DataTrust > DT_2014_General_Voters > 1,R1
+GOP DataTrust > DT_2014_Independent_General_Voters > 0,R1
+GOP DataTrust > DT_2014_Independent_General_Voters > 1,R1
+GOP DataTrust > DT_2014_Independent_Primary_Voters > 0,R1
+GOP DataTrust > DT_2014_Independent_Primary_Voters > 1,R1
+GOP DataTrust > DT_2014_Primary_Voters > 0,R1
+GOP DataTrust > DT_2014_Primary_Voters > 1,R1
+GOP DataTrust > DT_2014_Republican_General_Voters > 0,R1
+GOP DataTrust > DT_2014_Republican_General_Voters > 1,R1
+GOP DataTrust > DT_2014_Republican_Primary_Voters > 0,R1
+GOP DataTrust > DT_2014_Republican_Primary_Voters > 1,R1
+GOP DataTrust > DT_30-44 > 0,R1
+GOP DataTrust > DT_30-44 > 1,R1
+GOP DataTrust > DT_45-54 > 0,R1
+GOP DataTrust > DT_45-54 > 1,R1
+GOP DataTrust > DT_55-64 > 0,R1
+GOP DataTrust > DT_55-64 > 1,R1
+GOP DataTrust > DT_65+ > 0,R1
+GOP DataTrust > DT_65+ > 1,R1
+GOP DataTrust > DT_AB_EV_Voters > 1,R1
+GOP DataTrust > DT_Absentee_Voters > 0,R1
+GOP DataTrust > DT_Absentee_Voters > 1,R1
+GOP DataTrust > DT_Democratic_Primary_Voters > 0,R1
+GOP DataTrust > DT_Democratic_Primary_Voters > 1,R1
+GOP DataTrust > DT_Democratic_Voters > 0,R1
+GOP DataTrust > DT_Democratic_Voters > 1,R1
+GOP DataTrust > DT_Early_Voters > 0,R1
+GOP DataTrust > DT_Early_Voters > 1,R1
+GOP DataTrust > DT_Females > 0,R1
+GOP DataTrust > DT_Females > 1,R1
+GOP DataTrust > DT_High_Propensity_Voters > 0,R1
+GOP DataTrust > DT_High_Propensity_Voters > 1,R1
+GOP DataTrust > DT_Independent_Voters > 0,R1
+GOP DataTrust > DT_Independent_Voters > 1,R1
+GOP DataTrust > DT_Likely_2016_General_Voters > 0,R1
+GOP DataTrust > DT_Likely_2016_General_Voters > 1,R1
+GOP DataTrust > DT_Low_Propensity_Voters > 0,R1
+GOP DataTrust > DT_Low_Propensity_Voters > 1,R1
+GOP DataTrust > DT_Males > 0,R1
+GOP DataTrust > DT_Males > 1,R1
+GOP DataTrust > DT_Mid_Propensity_Voters > 0,R1
+GOP DataTrust > DT_Mid_Propensity_Voters > 1,R1
+GOP DataTrust > DT_Presidential_Only_Voters > 0,R1
+GOP DataTrust > DT_Presidential_Only_Voters > 1,R1
+GOP DataTrust > DT_Primary_Voters > 0,R1
+GOP DataTrust > DT_Primary_Voters > 1,R1
+GOP DataTrust > DT_Registered_Voters > 1,R1
+GOP DataTrust > DT_Republican_Primary_Voters > 0,R1
+GOP DataTrust > DT_Republican_Primary_Voters > 1,R1
+GOP DataTrust > DT_Republican_Voters > 0,R1
+GOP DataTrust > DT_Republican_Voters > 1,R1
+GOP DataTrust > DT_Swing_Democratic_Voters > 0,R1
+GOP DataTrust > DT_Swing_Democratic_Voters > 1,R1
+GOP DataTrust > DT_Swing_Republican_Voters > 0,R1
+GOP DataTrust > DT_Swing_Republican_Voters > 1,R1
+GOP DataTrust > DT_Undecided_Voters > 0,R1
+GOP DataTrust > DT_Undecided_Voters > 1,R1
+GOP DataTrust > DT_Veterans > 0,R1
+GOP DataTrust > DT_Veterans > 1,R1
+GOP DataTrust > DT_State > AK,R1
+GOP DataTrust > DT_State > AL,R1
+GOP DataTrust > DT_State > AR,R1
+GOP DataTrust > DT_State > AZ,R1
+GOP DataTrust > DT_State > CO,R1
+GOP DataTrust > DT_State > CT,R1
+GOP DataTrust > DT_State > DC,R1
+GOP DataTrust > DT_State > DE,R1
+GOP DataTrust > DT_State > FL,R1
+GOP DataTrust > DT_State > HI,R1
+GOP DataTrust > DT_State > IA,R1
+GOP DataTrust > DT_State > ID,R1
+GOP DataTrust > DT_State > IL,R1
+GOP DataTrust > DT_State > KS,R1
+GOP DataTrust > DT_State > KY,R1
+GOP DataTrust > DT_State > LA,R1
+GOP DataTrust > DT_State > MA,R1
+GOP DataTrust > DT_State > MD,R1
+GOP DataTrust > DT_State > ME,R1
+GOP DataTrust > DT_State > MI,R1
+GOP DataTrust > DT_State > MN,R1
+GOP DataTrust > DT_State > MO,R1
+GOP DataTrust > DT_State > MS,R1
+GOP DataTrust > DT_State > NC,R1
+GOP DataTrust > DT_State > NE,R1
+GOP DataTrust > DT_State > NH,R1
+GOP DataTrust > DT_State > NJ,R1
+GOP DataTrust > DT_State > NM,R1
+GOP DataTrust > DT_State > NV,R1
+GOP DataTrust > DT_State > NY,R1
+GOP DataTrust > DT_State > OH,R1
+GOP DataTrust > DT_State > OK,R1
+GOP DataTrust > DT_State > OR,R1
+GOP DataTrust > DT_State > PA,R1
+GOP DataTrust > DT_State > RI,R1
+GOP DataTrust > DT_State > SC,R1
+GOP DataTrust > DT_State > SD,R1
+GOP DataTrust > DT_State > TN,R1
+GOP DataTrust > DT_State > TX,R1
+GOP DataTrust > DT_State > UT,R1
+GOP DataTrust > DT_State > VA,R1
+GOP DataTrust > DT_State > VT,R1
+GOP DataTrust > DT_State > WA,R1
+GOP DataTrust > DT_State > WI,R1
+GOP DataTrust > DT_State > WY,R1
+GOP DataTrust > DT_Congressional_District > AK-00,R1
+GOP DataTrust > DT_Congressional_District > AL-01,R1
+GOP DataTrust > DT_Congressional_District > AL-02,R1
+GOP DataTrust > DT_Congressional_District > AL-03,R1
+GOP DataTrust > DT_Congressional_District > AL-04,R1
+GOP DataTrust > DT_Congressional_District > AL-05,R1
+GOP DataTrust > DT_Congressional_District > AL-06,R1
+GOP DataTrust > DT_Congressional_District > AL-07,R1
+GOP DataTrust > DT_Congressional_District > AR-01,R1
+GOP DataTrust > DT_Congressional_District > AR-02,R1
+GOP DataTrust > DT_Congressional_District > AR-03,R1
+GOP DataTrust > DT_Congressional_District > AR-04,R1
+GOP DataTrust > DT_Congressional_District > AZ-01,R1
+GOP DataTrust > DT_Congressional_District > AZ-02,R1
+GOP DataTrust > DT_Congressional_District > AZ-03,R1
+GOP DataTrust > DT_Congressional_District > AZ-04,R1
+GOP DataTrust > DT_Congressional_District > AZ-05,R1
+GOP DataTrust > DT_Congressional_District > AZ-06,R1
+GOP DataTrust > DT_Congressional_District > AZ-07,R1
+GOP DataTrust > DT_Congressional_District > AZ-08,R1
+GOP DataTrust > DT_Congressional_District > AZ-09,R1
+GOP DataTrust > DT_Congressional_District > CO-01,R1
+GOP DataTrust > DT_Congressional_District > CO-02,R1
+GOP DataTrust > DT_Congressional_District > CO-03,R1
+GOP DataTrust > DT_Congressional_District > CO-04,R1
+GOP DataTrust > DT_Congressional_District > CO-05,R1
+GOP DataTrust > DT_Congressional_District > CO-06,R1
+GOP DataTrust > DT_Congressional_District > CO-07,R1
+GOP DataTrust > DT_Congressional_District > CT-01,R1
+GOP DataTrust > DT_Congressional_District > CT-02,R1
+GOP DataTrust > DT_Congressional_District > CT-03,R1
+GOP DataTrust > DT_Congressional_District > CT-04,R1
+GOP DataTrust > DT_Congressional_District > CT-05,R1
+GOP DataTrust > DT_Congressional_District > DC-00,R1
+GOP DataTrust > DT_Congressional_District > DE-00,R1
+GOP DataTrust > DT_Congressional_District > FL-01,R1
+GOP DataTrust > DT_Congressional_District > FL-02,R1
+GOP DataTrust > DT_Congressional_District > FL-03,R1
+GOP DataTrust > DT_Congressional_District > FL-04,R1
+GOP DataTrust > DT_Congressional_District > FL-05,R1
+GOP DataTrust > DT_Congressional_District > FL-06,R1
+GOP DataTrust > DT_Congressional_District > FL-07,R1
+GOP DataTrust > DT_Congressional_District > FL-08,R1
+GOP DataTrust > DT_Congressional_District > FL-09,R1
+GOP DataTrust > DT_Congressional_District > FL-10,R1
+GOP DataTrust > DT_Congressional_District > FL-11,R1
+GOP DataTrust > DT_Congressional_District > FL-12,R1
+GOP DataTrust > DT_Congressional_District > FL-13,R1
+GOP DataTrust > DT_Congressional_District > FL-14,R1
+GOP DataTrust > DT_Congressional_District > FL-15,R1
+GOP DataTrust > DT_Congressional_District > FL-16,R1
+GOP DataTrust > DT_Congressional_District > FL-17,R1
+GOP DataTrust > DT_Congressional_District > FL-18,R1
+GOP DataTrust > DT_Congressional_District > FL-19,R1
+GOP DataTrust > DT_Congressional_District > FL-20,R1
+GOP DataTrust > DT_Congressional_District > FL-21,R1
+GOP DataTrust > DT_Congressional_District > FL-22,R1
+GOP DataTrust > DT_Congressional_District > FL-23,R1
+GOP DataTrust > DT_Congressional_District > FL-24,R1
+GOP DataTrust > DT_Congressional_District > FL-25,R1
+GOP DataTrust > DT_Congressional_District > FL-26,R1
+GOP DataTrust > DT_Congressional_District > FL-27,R1
+GOP DataTrust > DT_Congressional_District > HI-01,R1
+GOP DataTrust > DT_Congressional_District > HI-02,R1
+GOP DataTrust > DT_Congressional_District > IA-01,R1
+GOP DataTrust > DT_Congressional_District > IA-02,R1
+GOP DataTrust > DT_Congressional_District > IA-03,R1
+GOP DataTrust > DT_Congressional_District > IA-04,R1
+GOP DataTrust > DT_Congressional_District > ID-01,R1
+GOP DataTrust > DT_Congressional_District > ID-02,R1
+GOP DataTrust > DT_Congressional_District > IL-01,R1
+GOP DataTrust > DT_Congressional_District > IL-02,R1
+GOP DataTrust > DT_Congressional_District > IL-03,R1
+GOP DataTrust > DT_Congressional_District > IL-04,R1
+GOP DataTrust > DT_Congressional_District > IL-05,R1
+GOP DataTrust > DT_Congressional_District > IL-06,R1
+GOP DataTrust > DT_Congressional_District > IL-07,R1
+GOP DataTrust > DT_Congressional_District > IL-08,R1
+GOP DataTrust > DT_Congressional_District > IL-09,R1
+GOP DataTrust > DT_Congressional_District > IL-10,R1
+GOP DataTrust > DT_Congressional_District > IL-11,R1
+GOP DataTrust > DT_Congressional_District > IL-12,R1
+GOP DataTrust > DT_Congressional_District > IL-13,R1
+GOP DataTrust > DT_Congressional_District > IL-14,R1
+GOP DataTrust > DT_Congressional_District > IL-15,R1
+GOP DataTrust > DT_Congressional_District > IL-16,R1
+GOP DataTrust > DT_Congressional_District > IL-17,R1
+GOP DataTrust > DT_Congressional_District > IL-18,R1
+GOP DataTrust > DT_Congressional_District > KS-01,R1
+GOP DataTrust > DT_Congressional_District > KS-02,R1
+GOP DataTrust > DT_Congressional_District > KS-03,R1
+GOP DataTrust > DT_Congressional_District > KS-04,R1
+GOP DataTrust > DT_Congressional_District > KY-01,R1
+GOP DataTrust > DT_Congressional_District > KY-02,R1
+GOP DataTrust > DT_Congressional_District > KY-03,R1
+GOP DataTrust > DT_Congressional_District > KY-04,R1
+GOP DataTrust > DT_Congressional_District > KY-05,R1
+GOP DataTrust > DT_Congressional_District > KY-06,R1
+GOP DataTrust > DT_Congressional_District > LA-01,R1
+GOP DataTrust > DT_Congressional_District > LA-02,R1
+GOP DataTrust > DT_Congressional_District > LA-03,R1
+GOP DataTrust > DT_Congressional_District > LA-04,R1
+GOP DataTrust > DT_Congressional_District > LA-05,R1
+GOP DataTrust > DT_Congressional_District > LA-06,R1
+GOP DataTrust > DT_Congressional_District > MA-01,R1
+GOP DataTrust > DT_Congressional_District > MA-02,R1
+GOP DataTrust > DT_Congressional_District > MA-03,R1
+GOP DataTrust > DT_Congressional_District > MA-04,R1
+GOP DataTrust > DT_Congressional_District > MA-05,R1
+GOP DataTrust > DT_Congressional_District > MA-06,R1
+GOP DataTrust > DT_Congressional_District > MA-07,R1
+GOP DataTrust > DT_Congressional_District > MA-08,R1
+GOP DataTrust > DT_Congressional_District > MA-09,R1
+GOP DataTrust > DT_Congressional_District > MD-01,R1
+GOP DataTrust > DT_Congressional_District > MD-02,R1
+GOP DataTrust > DT_Congressional_District > MD-03,R1
+GOP DataTrust > DT_Congressional_District > MD-04,R1
+GOP DataTrust > DT_Congressional_District > MD-05,R1
+GOP DataTrust > DT_Congressional_District > MD-06,R1
+GOP DataTrust > DT_Congressional_District > MD-07,R1
+GOP DataTrust > DT_Congressional_District > MD-08,R1
+GOP DataTrust > DT_Congressional_District > ME-01,R1
+GOP DataTrust > DT_Congressional_District > ME-02,R1
+GOP DataTrust > DT_Congressional_District > MI-01,R1
+GOP DataTrust > DT_Congressional_District > MI-02,R1
+GOP DataTrust > DT_Congressional_District > MI-03,R1
+GOP DataTrust > DT_Congressional_District > MI-04,R1
+GOP DataTrust > DT_Congressional_District > MI-05,R1
+GOP DataTrust > DT_Congressional_District > MI-06,R1
+GOP DataTrust > DT_Congressional_District > MI-07,R1
+GOP DataTrust > DT_Congressional_District > MI-08,R1
+GOP DataTrust > DT_Congressional_District > MI-09,R1
+GOP DataTrust > DT_Congressional_District > MI-10,R1
+GOP DataTrust > DT_Congressional_District > MI-11,R1
+GOP DataTrust > DT_Congressional_District > MI-12,R1
+GOP DataTrust > DT_Congressional_District > MI-13,R1
+GOP DataTrust > DT_Congressional_District > MI-14,R1
+GOP DataTrust > DT_Congressional_District > MN-01,R1
+GOP DataTrust > DT_Congressional_District > MN-02,R1
+GOP DataTrust > DT_Congressional_District > MN-03,R1
+GOP DataTrust > DT_Congressional_District > MN-04,R1
+GOP DataTrust > DT_Congressional_District > MN-05,R1
+GOP DataTrust > DT_Congressional_District > MN-06,R1
+GOP DataTrust > DT_Congressional_District > MN-07,R1
+GOP DataTrust > DT_Congressional_District > MN-08,R1
+GOP DataTrust > DT_Congressional_District > MO-01,R1
+GOP DataTrust > DT_Congressional_District > MO-02,R1
+GOP DataTrust > DT_Congressional_District > MO-03,R1
+GOP DataTrust > DT_Congressional_District > MO-04,R1
+GOP DataTrust > DT_Congressional_District > MO-05,R1
+GOP DataTrust > DT_Congressional_District > MO-06,R1
+GOP DataTrust > DT_Congressional_District > MO-07,R1
+GOP DataTrust > DT_Congressional_District > MO-08,R1
+GOP DataTrust > DT_Congressional_District > MS-01,R1
+GOP DataTrust > DT_Congressional_District > MS-02,R1
+GOP DataTrust > DT_Congressional_District > MS-03,R1
+GOP DataTrust > DT_Congressional_District > MS-04,R1
+GOP DataTrust > DT_Congressional_District > NC-01,R1
+GOP DataTrust > DT_Congressional_District > NC-02,R1
+GOP DataTrust > DT_Congressional_District > NC-03,R1
+GOP DataTrust > DT_Congressional_District > NC-04,R1
+GOP DataTrust > DT_Congressional_District > NC-05,R1
+GOP DataTrust > DT_Congressional_District > NC-06,R1
+GOP DataTrust > DT_Congressional_District > NC-07,R1
+GOP DataTrust > DT_Congressional_District > NC-08,R1
+GOP DataTrust > DT_Congressional_District > NC-09,R1
+GOP DataTrust > DT_Congressional_District > NC-10,R1
+GOP DataTrust > DT_Congressional_District > NC-11,R1
+GOP DataTrust > DT_Congressional_District > NC-12,R1
+GOP DataTrust > DT_Congressional_District > NC-13,R1
+GOP DataTrust > DT_Congressional_District > NE-01,R1
+GOP DataTrust > DT_Congressional_District > NE-02,R1
+GOP DataTrust > DT_Congressional_District > NE-03,R1
+GOP DataTrust > DT_Congressional_District > NH-01,R1
+GOP DataTrust > DT_Congressional_District > NH-02,R1
+GOP DataTrust > DT_Congressional_District > NJ-01,R1
+GOP DataTrust > DT_Congressional_District > NJ-02,R1
+GOP DataTrust > DT_Congressional_District > NJ-03,R1
+GOP DataTrust > DT_Congressional_District > NJ-04,R1
+GOP DataTrust > DT_Congressional_District > NJ-05,R1
+GOP DataTrust > DT_Congressional_District > NJ-06,R1
+GOP DataTrust > DT_Congressional_District > NJ-07,R1
+GOP DataTrust > DT_Congressional_District > NJ-08,R1
+GOP DataTrust > DT_Congressional_District > NJ-09,R1
+GOP DataTrust > DT_Congressional_District > NJ-10,R1
+GOP DataTrust > DT_Congressional_District > NJ-11,R1
+GOP DataTrust > DT_Congressional_District > NJ-12,R1
+GOP DataTrust > DT_Congressional_District > NM-01,R1
+GOP DataTrust > DT_Congressional_District > NM-02,R1
+GOP DataTrust > DT_Congressional_District > NM-03,R1
+GOP DataTrust > DT_Congressional_District > NV-01,R1
+GOP DataTrust > DT_Congressional_District > NV-02,R1
+GOP DataTrust > DT_Congressional_District > NV-03,R1
+GOP DataTrust > DT_Congressional_District > NV-04,R1
+GOP DataTrust > DT_Congressional_District > NY-01,R1
+GOP DataTrust > DT_Congressional_District > NY-02,R1
+GOP DataTrust > DT_Congressional_District > NY-03,R1
+GOP DataTrust > DT_Congressional_District > NY-04,R1
+GOP DataTrust > DT_Congressional_District > NY-05,R1
+GOP DataTrust > DT_Congressional_District > NY-06,R1
+GOP DataTrust > DT_Congressional_District > NY-07,R1
+GOP DataTrust > DT_Congressional_District > NY-08,R1
+GOP DataTrust > DT_Congressional_District > NY-09,R1
+GOP DataTrust > DT_Congressional_District > NY-10,R1
+GOP DataTrust > DT_Congressional_District > NY-11,R1
+GOP DataTrust > DT_Congressional_District > NY-12,R1
+GOP DataTrust > DT_Congressional_District > NY-13,R1
+GOP DataTrust > DT_Congressional_District > NY-14,R1
+GOP DataTrust > DT_Congressional_District > NY-15,R1
+GOP DataTrust > DT_Congressional_District > NY-16,R1
+GOP DataTrust > DT_Congressional_District > NY-17,R1
+GOP DataTrust > DT_Congressional_District > NY-18,R1
+GOP DataTrust > DT_Congressional_District > NY-19,R1
+GOP DataTrust > DT_Congressional_District > NY-20,R1
+GOP DataTrust > DT_Congressional_District > NY-21,R1
+GOP DataTrust > DT_Congressional_District > NY-22,R1
+GOP DataTrust > DT_Congressional_District > NY-23,R1
+GOP DataTrust > DT_Congressional_District > NY-24,R1
+GOP DataTrust > DT_Congressional_District > NY-25,R1
+GOP DataTrust > DT_Congressional_District > NY-26,R1
+GOP DataTrust > DT_Congressional_District > NY-27,R1
+GOP DataTrust > DT_Congressional_District > OH-01,R1
+GOP DataTrust > DT_Congressional_District > OH-02,R1
+GOP DataTrust > DT_Congressional_District > OH-03,R1
+GOP DataTrust > DT_Congressional_District > OH-04,R1
+GOP DataTrust > DT_Congressional_District > OH-05,R1
+GOP DataTrust > DT_Congressional_District > OH-06,R1
+GOP DataTrust > DT_Congressional_District > OH-07,R1
+GOP DataTrust > DT_Congressional_District > OH-08,R1
+GOP DataTrust > DT_Congressional_District > OH-09,R1
+GOP DataTrust > DT_Congressional_District > OH-10,R1
+GOP DataTrust > DT_Congressional_District > OH-11,R1
+GOP DataTrust > DT_Congressional_District > OH-12,R1
+GOP DataTrust > DT_Congressional_District > OH-13,R1
+GOP DataTrust > DT_Congressional_District > OH-14,R1
+GOP DataTrust > DT_Congressional_District > OH-15,R1
+GOP DataTrust > DT_Congressional_District > OH-16,R1
+GOP DataTrust > DT_Congressional_District > OK-01,R1
+GOP DataTrust > DT_Congressional_District > OK-02,R1
+GOP DataTrust > DT_Congressional_District > OK-03,R1
+GOP DataTrust > DT_Congressional_District > OK-04,R1
+GOP DataTrust > DT_Congressional_District > OK-05,R1
+GOP DataTrust > DT_Congressional_District > OR-01,R1
+GOP DataTrust > DT_Congressional_District > OR-02,R1
+GOP DataTrust > DT_Congressional_District > OR-03,R1
+GOP DataTrust > DT_Congressional_District > OR-04,R1
+GOP DataTrust > DT_Congressional_District > OR-05,R1
+GOP DataTrust > DT_Congressional_District > PA-01,R1
+GOP DataTrust > DT_Congressional_District > PA-02,R1
+GOP DataTrust > DT_Congressional_District > PA-03,R1
+GOP DataTrust > DT_Congressional_District > PA-04,R1
+GOP DataTrust > DT_Congressional_District > PA-05,R1
+GOP DataTrust > DT_Congressional_District > PA-06,R1
+GOP DataTrust > DT_Congressional_District > PA-07,R1
+GOP DataTrust > DT_Congressional_District > PA-08,R1
+GOP DataTrust > DT_Congressional_District > PA-09,R1
+GOP DataTrust > DT_Congressional_District > PA-10,R1
+GOP DataTrust > DT_Congressional_District > PA-11,R1
+GOP DataTrust > DT_Congressional_District > PA-12,R1
+GOP DataTrust > DT_Congressional_District > PA-13,R1
+GOP DataTrust > DT_Congressional_District > PA-14,R1
+GOP DataTrust > DT_Congressional_District > PA-15,R1
+GOP DataTrust > DT_Congressional_District > PA-16,R1
+GOP DataTrust > DT_Congressional_District > PA-17,R1
+GOP DataTrust > DT_Congressional_District > PA-18,R1
+GOP DataTrust > DT_Congressional_District > RI-01,R1
+GOP DataTrust > DT_Congressional_District > RI-02,R1
+GOP DataTrust > DT_Congressional_District > SC-01,R1
+GOP DataTrust > DT_Congressional_District > SC-02,R1
+GOP DataTrust > DT_Congressional_District > SC-03,R1
+GOP DataTrust > DT_Congressional_District > SC-04,R1
+GOP DataTrust > DT_Congressional_District > SC-05,R1
+GOP DataTrust > DT_Congressional_District > SC-06,R1
+GOP DataTrust > DT_Congressional_District > SC-07,R1
+GOP DataTrust > DT_Congressional_District > SD-00,R1
+GOP DataTrust > DT_Congressional_District > TN-01,R1
+GOP DataTrust > DT_Congressional_District > TN-02,R1
+GOP DataTrust > DT_Congressional_District > TN-03,R1
+GOP DataTrust > DT_Congressional_District > TN-04,R1
+GOP DataTrust > DT_Congressional_District > TN-05,R1
+GOP DataTrust > DT_Congressional_District > TN-06,R1
+GOP DataTrust > DT_Congressional_District > TN-07,R1
+GOP DataTrust > DT_Congressional_District > TN-08,R1
+GOP DataTrust > DT_Congressional_District > TN-09,R1
+GOP DataTrust > DT_Congressional_District > TX-01,R1
+GOP DataTrust > DT_Congressional_District > TX-02,R1
+GOP DataTrust > DT_Congressional_District > TX-03,R1
+GOP DataTrust > DT_Congressional_District > TX-04,R1
+GOP DataTrust > DT_Congressional_District > TX-05,R1
+GOP DataTrust > DT_Congressional_District > TX-06,R1
+GOP DataTrust > DT_Congressional_District > TX-07,R1
+GOP DataTrust > DT_Congressional_District > TX-08,R1
+GOP DataTrust > DT_Congressional_District > TX-09,R1
+GOP DataTrust > DT_Congressional_District > TX-10,R1
+GOP DataTrust > DT_Congressional_District > TX-11,R1
+GOP DataTrust > DT_Congressional_District > TX-12,R1
+GOP DataTrust > DT_Congressional_District > TX-13,R1
+GOP DataTrust > DT_Congressional_District > TX-14,R1
+GOP DataTrust > DT_Congressional_District > TX-15,R1
+GOP DataTrust > DT_Congressional_District > TX-16,R1
+GOP DataTrust > DT_Congressional_District > TX-17,R1
+GOP DataTrust > DT_Congressional_District > TX-18,R1
+GOP DataTrust > DT_Congressional_District > TX-19,R1
+GOP DataTrust > DT_Congressional_District > TX-20,R1
+GOP DataTrust > DT_Congressional_District > TX-21,R1
+GOP DataTrust > DT_Congressional_District > TX-22,R1
+GOP DataTrust > DT_Congressional_District > TX-23,R1
+GOP DataTrust > DT_Congressional_District > TX-24,R1
+GOP DataTrust > DT_Congressional_District > TX-25,R1
+GOP DataTrust > DT_Congressional_District > TX-26,R1
+GOP DataTrust > DT_Congressional_District > TX-27,R1
+GOP DataTrust > DT_Congressional_District > TX-28,R1
+GOP DataTrust > DT_Congressional_District > TX-29,R1
+GOP DataTrust > DT_Congressional_District > TX-30,R1
+GOP DataTrust > DT_Congressional_District > TX-31,R1
+GOP DataTrust > DT_Congressional_District > TX-32,R1
+GOP DataTrust > DT_Congressional_District > TX-33,R1
+GOP DataTrust > DT_Congressional_District > TX-34,R1
+GOP DataTrust > DT_Congressional_District > TX-35,R1
+GOP DataTrust > DT_Congressional_District > TX-36,R1
+GOP DataTrust > DT_Congressional_District > UT-01,R1
+GOP DataTrust > DT_Congressional_District > UT-02,R1
+GOP DataTrust > DT_Congressional_District > UT-03,R1
+GOP DataTrust > DT_Congressional_District > UT-04,R1
+GOP DataTrust > DT_Congressional_District > VA-01,R1
+GOP DataTrust > DT_Congressional_District > VA-02,R1
+GOP DataTrust > DT_Congressional_District > VA-03,R1
+GOP DataTrust > DT_Congressional_District > VA-04,R1
+GOP DataTrust > DT_Congressional_District > VA-05,R1
+GOP DataTrust > DT_Congressional_District > VA-06,R1
+GOP DataTrust > DT_Congressional_District > VA-07,R1
+GOP DataTrust > DT_Congressional_District > VA-08,R1
+GOP DataTrust > DT_Congressional_District > VA-09,R1
+GOP DataTrust > DT_Congressional_District > VA-10,R1
+GOP DataTrust > DT_Congressional_District > VA-11,R1
+GOP DataTrust > DT_Congressional_District > VT-00,R1
+GOP DataTrust > DT_Congressional_District > WA-01,R1
+GOP DataTrust > DT_Congressional_District > WA-02,R1
+GOP DataTrust > DT_Congressional_District > WA-03,R1
+GOP DataTrust > DT_Congressional_District > WA-04,R1
+GOP DataTrust > DT_Congressional_District > WA-05,R1
+GOP DataTrust > DT_Congressional_District > WA-06,R1
+GOP DataTrust > DT_Congressional_District > WA-07,R1
+GOP DataTrust > DT_Congressional_District > WA-08,R1
+GOP DataTrust > DT_Congressional_District > WA-09,R1
+GOP DataTrust > DT_Congressional_District > WA-10,R1
+GOP DataTrust > DT_Congressional_District > WI-01,R1
+GOP DataTrust > DT_Congressional_District > WI-02,R1
+GOP DataTrust > DT_Congressional_District > WI-03,R1
+GOP DataTrust > DT_Congressional_District > WI-04,R1
+GOP DataTrust > DT_Congressional_District > WI-05,R1
+GOP DataTrust > DT_Congressional_District > WI-06,R1
+GOP DataTrust > DT_Congressional_District > WI-07,R1
+GOP DataTrust > DT_Congressional_District > WI-08,R1
+GOP DataTrust > DT_Congressional_District > WY-00,R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $0 - $14,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $15,000 - $19,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $20,000 - $29,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $30,000 - $39,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $40,000 - $49,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $50,000 - $59,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $60,000 - $74,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $75,000 - $99,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $100,000 - $124,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $125,000 - $149,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $150,000 - $199,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $200,000 - $249,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $250,000 - $399,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Household Income > $400,000+",R1
+AnalyticsIQ > AnalyticsIQ Finance > Overall Investable Assets > Top 1%,R1
+AnalyticsIQ > AnalyticsIQ Finance > Overall Investable Assets > Top 2 - 5%,R1
+AnalyticsIQ > AnalyticsIQ Finance > Overall Investable Assets > Top 6 - 10%,R1
+AnalyticsIQ > AnalyticsIQ Finance > Stocks & Securities > Top 1%,R1
+AnalyticsIQ > AnalyticsIQ Finance > Stocks & Securities > Top 2 - 5%,R1
+AnalyticsIQ > AnalyticsIQ Finance > Stocks & Securities > Top 6 - 10%,R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending > Greater than $43,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending > $25,000 to $42,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending > $20,000 to $24,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Dining > Greater than $7,500",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Dining > $5,000 to $7,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Dining > $4,000 to $4,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Apparel > Greater than $5,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Apparel > $3,000 to $4,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Apparel > $2,500 to $2,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Entertainment > Greater than $3,500",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Entertainment > $2,250 to $3,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Entertainment > $1,750 to $2,249",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Personal Care > Greater than $1,500",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Personal Care > $1,000 to $1,499",R1
+AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Personal Care > $850 to $999,R1
+AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Reading > Greater than $300,R1
+AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Reading > $200 - $299,R1
+AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Reading > $175 - $199,R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Education > Greater than $5,500",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Education > $2,500 to $5,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Education > $1,500 to $2,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Donation > Greater than $6,250",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Donation > $3,500 to $6,249",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Donation > $2,500 to $3,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Furnish > Greater than $5,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Furnish > $3,000 to $4,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Furnish > $2,500 to $2,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Travel > Greater than $8,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Travel > $5,000 to $7,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Travel > $4,000 to $4,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Domestic Travel > Greater than $4,500",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Domestic Travel > $2,750 to $4,499",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Domestic Travel > $2,250 to $2,749",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on International Travel > Greater than $3,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on International Travel > $2,000 to $2,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on International Travel > $1,500 to $1,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Cruise Travel > Greater than $2,000",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Cruise Travel > $1,100 to $1,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Annual Discretionary Spending on Cruise Travel > $800 to $1,099",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $0 to $19,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $20,000 to $24,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $25,000 to $49,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $50,000 to $74,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $75,000 to $99,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $100,000 to $149,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $150,000 to $249,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $250,000 to $374,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $375,000 to $499,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $500,000 to $749,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $750,000 to $999,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $1,000,000 to $1,999,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $2,000,000 to $3,999,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > $3,000,000 to $5,999,999",R1
+"AnalyticsIQ > AnalyticsIQ Finance > Estimated Net Worth > Greater than $6,000,000",R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Super Rich,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Giving Back,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Millionaire Next Door,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Nouveau Riche,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Old Money,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Spend Like The Rich,R1
+AnalyticsIQ > AnalyticsIQ Finance > AIQ Affluence Segments > Climbers,R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $20,000 to $39,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $40,000 to $59,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $60,000 to $79,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $80,000 to $99,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $100,000 to $119,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $120,000 to $139,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $140,000 to $159,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $160,000 to $179,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $180,000 to $199,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $200,000 to $299,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $300,000 to $399,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $400,000 to $499,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $500,000 to $599,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $600,000 to $699,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $700,000 to $799,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $800,000 to $899,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > $900,000 to $999,999",R1
+"AnalyticsIQ > AnalyticsIQ Demographic > Housing Attributes > Home Value > Greater than $1,000,000",R1
+AnalyticsIQ > AnalyticsIQ Stability > Very Poor,R1
+AnalyticsIQ > AnalyticsIQ Stability > Poor,R1
+AnalyticsIQ > AnalyticsIQ Stability > Fair,R1
+AnalyticsIQ > AnalyticsIQ Stability > Good,R1
+AnalyticsIQ > AnalyticsIQ Stability > Very Good,R1
+AnalyticsIQ > AnalyticsIQ Stability > Excellent,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Very Poor,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Poor,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Fair,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Good,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Very Good,R1
+AnalyticsIQ > AnalyticsIQ Payment Propensity > Excellent,R1
+AnalyticsIQ > AnalyticsIQ Demographic > Business Owner,R1
+Cross Pixel > Audience portraits > Finance > Low Credit Scores,R1
+Cross Pixel > Audience portraits > Food and Dining > Wine and Hors D'oeuvres Lovers,R1
+Cross Pixel > Audience portraits > Psychographics > High Net Worth,R1
+Windfall > Windfall Income > Household Income > $0-15k,R1
+Windfall > Windfall Income > Household Income > $15-20k,R1
+Windfall > Windfall Income > Household Income > $20-30k,R1
+Windfall > Windfall Income > Household Income > $30-40k,R1
+Windfall > Windfall Income > Household Income > $40-50k,R1
+Windfall > Windfall Income > Household Income > $50-60k,R1
+Windfall > Windfall Income > Household Income > $60-75k,R1
+Windfall > Windfall Income > Household Income > $75-100k,R1
+Windfall > Windfall Income > Household Income > $100-125k,R1
+Windfall > Windfall Income > Household Income > $125-150k,R1
+Windfall > Windfall Income > Household Income > $150-200k,R1
+Windfall > Windfall Income > Household Income > $200-250k,R1
+Windfall > Windfall Income > Household Income > $250-300k,R1
+Windfall > Windfall Income > Household Income > $300-400k,R1
+Windfall > Windfall Income > Household Income > $400-500k,R1
+Windfall > Windfall Income > Household Income > $500-750k,R1
+Windfall > Windfall Income > Household Income > $750k-1M,R1
+Windfall > Windfall Income > Household Income > $1-2M,R1
+Windfall > Windfall Income > Household Income > $2M+,R1
+Windfall > Windfall Income > Investment Income > Losses,R1
+Windfall > Windfall Income > Investment Income > $0-250,R1
+Windfall > Windfall Income > Investment Income > $250-500,R1
+Windfall > Windfall Income > Investment Income > $500-$1k,R1
+Windfall > Windfall Income > Investment Income > $1-2.5k,R1
+Windfall > Windfall Income > Investment Income > $2.5-5k,R1
+Windfall > Windfall Income > Investment Income > $5-7.5k,R1
+Windfall > Windfall Income > Investment Income > $7.5-10k,R1
+Windfall > Windfall Income > Investment Income > $10-15k,R1
+Windfall > Windfall Income > Investment Income > $15-20k,R1
+Windfall > Windfall Income > Investment Income > $20-30k,R1
+Windfall > Windfall Income > Investment Income > $30-40k,R1
+Windfall > Windfall Income > Investment Income > $40-50k,R1
+Windfall > Windfall Income > Investment Income > $50-75k,R1
+Windfall > Windfall Income > Investment Income > $75-100k,R1
+Windfall > Windfall Income > Investment Income > $100k+,R1
+Windfall > Windfall Income > Retirement Income > $0-2.5k,R1
+Windfall > Windfall Income > Retirement Income > $2.5-5k,R1
+Windfall > Windfall Income > Retirement Income > $5-7.5k,R1
+Windfall > Windfall Income > Retirement Income > $7.5-10k,R1
+Windfall > Windfall Income > Retirement Income > $10-15k,R1
+Windfall > Windfall Income > Retirement Income > $15-20k,R1
+Windfall > Windfall Income > Retirement Income > $20-30k,R1
+Windfall > Windfall Income > Retirement Income > $30-40k,R1
+Windfall > Windfall Income > Retirement Income > $40-50k,R1
+Windfall > Windfall Income > Retirement Income > $50-100K,R1
+Windfall > Windfall Income > Retirement Income > $100k+,R1
+Windfall > Windfall Income > Charitable Giving > $0-250,R1
+Windfall > Windfall Income > Charitable Giving > $250-500,R1
+Windfall > Windfall Income > Charitable Giving > $500-750,R1
+Windfall > Windfall Income > Charitable Giving > $750-1k,R1
+Windfall > Windfall Income > Charitable Giving > $1-1.5k,R1
+Windfall > Windfall Income > Charitable Giving > $1.5-2.5k,R1
+Windfall > Windfall Income > Charitable Giving > $2.5-5k,R1
+Windfall > Windfall Income > Charitable Giving > $5-10k,R1
+Windfall > Windfall Income > Charitable Giving > $10-25k,R1
+Windfall > Windfall Income > Charitable Giving > $25-50k,R1
+Windfall > Windfall Income > Charitable Giving > $50k+,R1
+Windfall > Windfall Income > High Household & Investment Income,R1
+Windfall > Windfall Income > High Household & Retirement Income,R1
+Windfall > Windfall Income > High Household & Ultra High Retirement Income,R1
+Windfall > Windfall Income > High Household Income & Charitable Giving,R1
+"Windfall > Windfall Income > High Household Income, Investment Income & Charitable Giving",R1
+Windfall > Windfall Income > Ultra High Household & Investment Income,R1
+Windfall > Windfall Income > Ultra High Household & High Retirement Income,R1
+Windfall > Windfall Income > Ultra High Household & Retirement Income,R1
+Windfall > Windfall Income > High Investment Income & Charitable Giving,R1
+Windfall > Windfall Income > Ultra High Investment Income & Charitable Giving,R1
+Alliant > Products & Services Propensities > Fast Food - Propensity,R1
+Alliant > Products & Services Propensities > Donor to PBS / NPR - Propensity,R1
+Alliant > Products & Services Propensities > Smart Phone Users - Propensity,R1
+Alliant > Demographic > College Graduates,R1
+Alliant > Demographic > Home Value $300-499k,R1
+Alliant > Demographic > Home Value $100-199k,R1
+Alliant > Demographic > Household Income $100k+,R1
+Alliant > Emerging households > Credit Seekers,R1
+Alliant > Demographic > Household Income $50k+,R1
+Alliant > Demographic > Household Income $150k+,R1
+Alliant > Demographic > Home Value Less than $100k,R1
+Alliant > Demographic > Home Value $200-299k,R1
+Alliant > Demographic > Home Value $500k+,R1
+Alliant > Demographic > Blue Collar Occupations,R1
+Alliant > Products & Services Propensities > Avid Gamers - Propensity,R1
+Alliant > Products & Services Propensities > Religious Donors - Propensity,R1
+ALC > Political Precision > Voters by Demographic Selects > Affluent Voters,R1
+ALC > Newborn Network > Digital Parents > Affluent Moms & Dads,R1
+Auto Generated: Gap Inc. > gapus_active_emails_20140211.txt > 1,R1
+Auto Generated: Gap Inc. > BananaRepublicUS_WomensSweaters_Purchasers_Aug15Jul16.dat > 1,R1
+Datalogix > na_src > 2,R1
+"Infogroup > B2C > Demographics > Networth > $800,000+ > $900,000 - $1,199,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $600,000 - $799,999 > $700,000 - $799,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $400,000 - $599,999 > $400,000 - $499,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $200,000 - $399,999 > $200,000 - $299,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $100,000 - $199,999 > $140,000 - $159,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $100,000 - $199,999 > $120,000 - $139,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > $80,000 - $99,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > $30,000 - $59,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > $10,000 - $19,999 -- Co-op Sourced",R1
+Infogroup > B2C > Demographics > Housing > Home Value > $1M or more -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $800k to $899k -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $600k to $699k -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $450K to $500K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $350K to $400K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $250K to $300K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $175K to $200K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $125K to $150K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $75K to $100K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > Under $50K -- Co-op Sourced,R1
+"Infogroup > B2C > Demographics > Income > $250,000 or more -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > $100,000 - $149,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > <$100,000 > $50,000 - $69,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > <$100,000 > $20,000 - $34,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > <$100,000 > Less than $20,000 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > <$100,000 > $35,000 - $49,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > <$100,000 > $75,000-$99,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Income > $200,000 - $249,999 -- Co-op Sourced",R1
+Infogroup > B2C > Demographics > Housing > Home Value > $50K to $75K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $100K to $125K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $150K to $175K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $200K to $250K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $300K to $350K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $400K to $450K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $500K to $600K -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $700k to $799k -- Co-op Sourced,R1
+Infogroup > B2C > Demographics > Housing > Home Value > $900k to $999k -- Co-op Sourced,R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > <$10,000 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > $20,000 - $29,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > <$100,000 > $60,000 - $79,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $100,000 - $199,999 > $100,000 - $119,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $100,000 - $199,999 > $160,000 - $179,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $100,000 - $199,999 > $180,000 - 199,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $200,000 - $399,999 > $300,000 - $399,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $400,000 - $599,999 > $500,000 - $599,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $800,000+ > $800,000 - $899,999 -- Co-op Sourced",R1
+"Infogroup > B2C > Demographics > Networth > $800,000+ > $1,200,000 - $1,799,999 -- Co-op Sourced",R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 0-100K,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 101K-200K,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 201K-300K,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 301K-400K,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 401K-500K,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 501K-750k,R1
+V12 > DEMOGRAPHIC > Home Purchase Price > 750K-up,R1
+V12 > DEMOGRAPHIC > Current Home Value > 0-100K,R1
+V12 > DEMOGRAPHIC > Current Home Value > 101K-200K,R1
+V12 > DEMOGRAPHIC > Current Home Value > 201K-300K,R1
+V12 > DEMOGRAPHIC > 301K-400K,R1
+V12 > DEMOGRAPHIC > Current Home Value > 401k-500K,R1
+V12 > DEMOGRAPHIC > Current Home Value > 501K-750K,R1
+V12 > DEMOGRAPHIC > Current Home Value > 750K-up,R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 5K - 9,999K",R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 10K - 24,999K",R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 25K - 49,999K",R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 50K - 99,999K",R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 100K - 249,999K",R1
+"V12 > DEMOGRAPHIC > Net Worth Ranges > 250K - 499,999K",R1
+V12 > DEMOGRAPHIC > Net Worth Ranges > Greater Than 500K,R1
+V12 > FINANCE > Mortgage Amount > < 75K,R1
+V12 > FINANCE > Mortgage Amount > 76K-125K,R1
+V12 > FINANCE > Mortgage Amount > 126K-175K,R1
+V12 > FINANCE > Mortgage Amount > 176K-250K,R1
+V12 > FINANCE > Mortgage Amount > 251K-325K,R1
+V12 > FINANCE > Mortgage Amount > 326K-425K,R1
+V12 > FINANCE > Mortgage Amount > 426K-550K,R1
+V12 > FINANCE > Mortgage Amount > 551K-750K,R1
+V12 > FINANCE > Mortgage Amount > 751K-999K,R1
+V12 > FINANCE > Mortgage Amount > 1MM+,R1
+V12 > FINANCE > Home Finance > < 75K,R1
+V12 > FINANCE > Home Finance > 76K-125K,R1
+V12 > FINANCE > Home Finance > 126K-175K,R1
+V12 > FINANCE > Home Finance > 176K-250K,R1
+V12 > FINANCE > Home Finance > 251K-325K,R1
+V12 > FINANCE > Home Finance > 326K-425K,R1
+V12 > FINANCE > Home Finance > 426K-550K,R1
+V12 > FINANCE > Home Finance > 551K-750K,R1
+V12 > FINANCE > Home Finance > 751K-999K,R1
+V12 > FINANCE > Home Finance > 1MM,R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: < $20,000",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $100,000 - $149,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $150,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $20,000 - $39,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $40,000 - $49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $50,000 - $74,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Demographics > Average Household IncomeHH Income: $75,000 - $99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $10,000-$24,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $100,000-$199,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $200,000-$299,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $25,000-$49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $300,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $50,000-$74,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: $75,000-$99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Automotive Insurance-ValueAuto Insurance Value: <$10,000",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $10,000-$24,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $100,000-$199,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $200,000-$299,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $25,000-$49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $300,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $50,000-$74,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Homeowner's Insurance - ValueHomeowner Insurance Value: $75,000-$99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - 401K- Value401K Value $10,000-$24,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - 401K- Value401K Value $100,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - 401K- Value401K Value $25,000-$49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - 401K- Value401K Value $50,000-$99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - IRA ValueIRA Value $100,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Investments - Type ofMutual Funds Value $100,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-$100,000-$199,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-$20,000-$49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-$200,000-$499,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-$50,000-$99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-$500,000 Or More",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Life InsuranceLife Insurance Value-Less Than $20,000",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-$10,000-$24,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-$100,000+",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-$25,000-$49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-$5,000-$9,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-$50,000-$99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Personal Finance > Values of SecuritiesTotal Value-Any Securities Own-<$5,000",R1
+AdAdvisor Audiences Powered by Neustar > AdAdvisor Consumer Audiences > Restaurants > Restaurant Expenditures By HHAmount Spent Family/Sit-Down Lst 30 Day: $500 Or More,R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $0 - $24,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $1,000,000 - $1,999,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $100,000 - $249,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $2,000,000 or more",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $25,000 - $49,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $250,000 - $499,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $50,000 - $74,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $500,000 - $749,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $75,000 - $99,999",R1
+"AdAdvisor Audiences Powered by Neustar > AdAdvisor Financial Audiences > Net Asset Value > $750,000 - $999,999",R1
+Epsilon > Purchase Behaviors > Luxury Buyers > Platinum Wallets,R1
+"Epsilon > Financials > Home Equity Loan Amount > > $300,000",R1
+"Epsilon > Financials > Home Equity Loan Amount > $200,000 - $249,999",R1
+"Epsilon > Financials > Home Equity Loan Amount > $100,000 - $149,999",R1
+"Epsilon > Financials > Home Equity Loan Amount > < $50,000",R1
+"Epsilon > Financials > Mortgage Liability > $200,000 to $299,000",R1
+"Epsilon > Financials > Mortgage Liability > $100,000 to $199,000",R1
+"Epsilon > Financials > Mortgage Liability > 0 to $99,000",R1
+"Epsilon > Financials > Mortgage Liability > $750,000+",R1
+"Epsilon > Financials > Mortgage Liability > $500,000 to $749,000",R1
+"Epsilon > Financials > Mortgage Liability > $400,000 to $499,000",R1
+"Epsilon > Financials > Mortgage Liability > $300,000 to $399,000",R1
+"Epsilon > Financials > Home Equity Loan Amount > $50,000 - $ 99,999",R1
+"Epsilon > Financials > Home Equity Loan Amount > $150,000 - $199,999",R1
+"Epsilon > Financials > Home Equity Loan Amount > $250,000 - $299,999",R1
+Epsilon > Purchase Behaviors > Luxury Buyers > Silver Wallets,R1
+Epsilon > Financials > Pays On Time: Bank Card Bills > Less Likely,R1
+Epsilon > Financials > Pays On Time: Bank Card Bills > Unlikely,R1
+Epsilon > Financials > Pays On Time: Bank Card Bills > Most Likely,R1
+Epsilon > Financials > Pays On Time: Bank Card Bills > More Than Likely,R1
+Epsilon > Financials > Pays On Time: Bank Card Bills > Likely,R1
+"Epsilon > Auto > Vehicle Current Market Value > > $30,001",R1
+"Epsilon > Auto > Vehicle Current Market Value > $20,001 - $25,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $10,001 - $15,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $4,001 - $5,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $2,001 - $3,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > < $1,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > > $30,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $2,001 - $3,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $1,001 - $2,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $25,001 - $30,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > < $1,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $10,001 - $15,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $5,001 - $10,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $4,001 - $5,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $3,001 - $4,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $20,001 - $25,000",R1
+"Epsilon > Auto > Total Current Market Value: Trucks > $15,001 - $20,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > > $30,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $2,001 - $3,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $1,001 - $2,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > < $1,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $25,001 - $30,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $10,001 - $15,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $5,001 - $10,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $4,001 - $5,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $3,001 - $4,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $20,001 - $25,000",R1
+"Epsilon > Auto > Total Current Market Value: All Vehicles > $15,001 - $20,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > > $30,001",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $2,001 - $3,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $1,001 - $2,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > < $1,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $25,001 - $30,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $10,001 - $15,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $5,001 - $10,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $4,001 - $5,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $3,001 - $4,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $20,001 - $25,000",R1
+"Epsilon > Auto > Average Current Market Value: All Vehicles > $15,001 - $20,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > > $30,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $2,001 - $3,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $1,001 - $2,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > < $1,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $25,001 - $30,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $10,001 - $15,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $5,001 - $10,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $4,001 - $5,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $3,001 - $4,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $20,001 - $25,000",R1
+"Epsilon > Auto > Total Current Market Value: Cars > $15,001 - $20,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $1,001 - $2,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $3,001 - $4,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $5,001 - $10,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $15,001 - $20,000",R1
+"Epsilon > Auto > Vehicle Current Market Value > $25,001 - $30,000",R1
+Epsilon > Financials > Pays On Time: Retail Credit Card Bills > Less Likely,R1
+Epsilon > Financials > Pays On Time: Retail Credit Card Bills > Unlikely,R1
+Epsilon > Financials > Pays On Time: Retail Credit Card Bills > Most Likely,R1
+Epsilon > Financials > Pays On Time: Retail Credit Card Bills > More Than Likely,R1
+Epsilon > Financials > Pays On Time: Retail Credit Card Bills > Likely,R1
+KANTAR > Millward Brown > Interest > Business and Financial > Entrepeneurs and Innovators,R1
+KANTAR > Millward Brown > Interest > Business and Financial > Financial Market Followers,R1
+KANTAR > Millward Brown > Interest > Business and Financial > Investors,R1
+KANTAR > Millward Brown > Interest > Business and Financial > Online Bankers,R1
+KANTAR > Millward Brown > Interest > Communities and Lifestyle > Decoristas,R1
+KANTAR > Millward Brown > Interest > Communities and Lifestyle > Fine Diners,R1
+KANTAR > Millward Brown > Interest > Entertainment > Online Readers,R1
+KANTAR > Millward Brown > Interest > Entertainment > Urban Intelligensia,R1
+KANTAR > Millward Brown > Interest > Health & Fitness > Symptoms and Diagnosis,R1
+KANTAR > Millward Brown > Interest > News and Info > Affluent Intellects,R1
+KANTAR > Millward Brown > Interest > News and Info > Opinion Elites,R1
+KANTAR > Millward Brown > Interest > News and Info > Tech Elite,R1
+KANTAR > Millward Brown > Interest > News and Info > The Inside of the Beltway Crowd,R1
+KANTAR > Millward Brown > Interest > Retail and e-commerce > Online Shoppers,R1
+KANTAR > Millward Brown > Interest > Travel > Travel Seekers,R1
+"PushSpring > comScore PushSpring Demographic > Total HH Income > Less than $25,000",R1
+"PushSpring > comScore PushSpring Demographic > Total HH Income > $25,000 to $39,999",R1
+"PushSpring > comScore PushSpring Demographic > Total HH Income > $60,000 to $74,999",R1
+"PushSpring > comScore PushSpring Demographic > Total HH Income > $75,000 to $99,999",R1
+"PushSpring > comScore PushSpring Demographic > Total HH Income > $100,000+",R1
+"INACTIVE - ACXM Investment > Likely Assets > Net Worth - $20,000,000 Plus",R1
+INACTIVE - ACXM Investment > Likely Attitude or Behavior > Highly Likely Investor,R1
+PushSpring > Custom Segment > Cadreon LA > Tourism Australia - Vacationers AND HHI $100k+ - Cookies,R1
+PushSpring > Custom Segment > Cadreon LA > Tourism Australia - Vacation Shoppers AND HHI $100k+ - Cookies,R1
+PushSpring > Custom Segment > Cadreon LA > Tourism Australia - Travel Shoppers AND NOT Parents AND HHI $100k+ - Cookies,R1
+PushSpring > Custom Segment > Cadreon LA > Tourism Australia - Vacationers AND International Texting/Chat Apps AND HHI $100k+ - Cookies,R1
+Stirista > Consumer > Home Owner > Low Credit Home Owners,R1
+Stirista > Consumer > Home Owner > High Credit Home Owners,R1
+Alliant > Emerging households > Performance Score: Bottom 10%,R1
+Alliant > Emerging households > Performance Score: Bottom 50%,R1
+Alliant > Financially in Charge > Performance Score: Top 25%,R1
+Alliant > Financially in Charge > Performance Score: Top 5%,R1
+Alliant > Financially in Charge > Performance Score: Top 10%,R1
+Alliant > Financially in Charge > Performance Score: Top 50%,R1
+Alliant > Emerging households > Performance Score: Bottom 25%,R1
+Alliant > Emerging households > Performance Score: Bottom 5%,R1
+"Pacific Data Partners > Demographic > Income > $75,000-$99,999",R1
+"Pacific Data Partners > Demographic > Income > $30,000-$39,999",R1
+"Pacific Data Partners > Demographic > Income > $40,000-$49,999",R1
+"Pacific Data Partners > Demographic > Income > $50,000-$59,999",R1
+"Pacific Data Partners > Demographic > Income > $15,000-$19,999",R1
+"Pacific Data Partners > Demographic > Income > $60,000-$74,999",R1
+"Pacific Data Partners > Demographic > Income > $20,000-$29,999",R1
+"Pacific Data Partners > Demographic > Income > $100,000+",R1
+Pacific Data Partners > B2B > High Net Worth,R1
+"Pacific Data Partners > Real Estate > Median Home Value > $300,000-$399,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $700,000-$799,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $500,000-$599,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $100,000-$199,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $1,000,000+",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $0-$99,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $900,000-$999,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $600,000-$699,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $400,000-$499,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $800,000-$899,999",R1
+"Pacific Data Partners > Real Estate > Median Home Value > $200,000-$299,999",R1
+Dun & Bradstreet > B2B Premium Taxonomy > B2B Account Marketability Score > Low Attractiveness & Priority,R1
+Dun & Bradstreet > B2B Premium Taxonomy > B2B Account Marketability Score > Fair Attractiveness & Medium Priority,R1
+Dun & Bradstreet > B2B Premium Taxonomy > B2B Account Marketability Score > Excellent Attractiveness & Highest Priority,R1
+Dun & Bradstreet > B2B Premium Taxonomy > B2B Account Marketability Score > Good Attractiveness & High Priority,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Property Insurance by Risk Tier > Most Likely Very Low Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Property Insurance by Risk Tier > Average Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Property Insurance by Risk Tier > Most Likely Very High Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Auto Insurance by Risk Tier > Likely Low Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Auto Insurance by Risk Tier > Likely High Loss Ratio,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Home Equity Loan > Unlikely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Home Equity Loan > Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Mortgage > Unlikely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Mortgage > Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Credit Behavior > High Income Consumers In Market for a Credit Card > Unlikely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Credit Behavior > High Income Consumers In Market for a Credit Card > Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Auto Loan Behavior > High Income Consumers In Market for an Auto Loan > Unlikely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Auto Loan Behavior > High Income Consumers In Market for an Auto Loan > Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Auto Loan Behavior > High Income Consumers In Market for an Auto Loan > Most Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Auto Loan Behavior > High Income Consumers In Market for an Auto Loan > Somewhat Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Credit Behavior > High Income Consumers In Market for a Credit Card > Most Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Credit Behavior > High Income Consumers In Market for a Credit Card > Somewhat Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Mortgage > Most Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Mortgage > Somewhat Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Home Equity Loan > Most Likely in Market,R1
+TransUnion Consumer Finance > In Market Propensity > Mortgage Borrowing Behavior > High Income Consumers In Market for a Home Equity Loan > Somewhat Likely in Market,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Auto Insurance by Risk Tier > Most Likely Very High Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Auto Insurance by Risk Tier > Average Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Auto Insurance by Risk Tier > Most Likely Very Low Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Property Insurance by Risk Tier > Likely High Loss Ratio,R1
+TransUnion Consumer Finance > Auto and Property Insurance > High Income Consumers by In Market for Property Insurance by Risk Tier > Likely Low Loss Ratio,R1
+SMS > college loan delinquent,R1
+SMS > credit lines > 1,R1
+SMS > credit lines > 2,R1
+SMS > credit lines > 3,R1
+SMS > credit lines > 4,R1
+SMS > credit lines > 5,R1
+SMS > credit lines > 6,R1
+SMS > credit lines > 7,R1
+SMS > credit lines > 8,R1
+SMS > credit lines > 9,R1
+"SMS > estimated household income > under $10,000",R1
+"SMS > estimated household income > $10,000 - $14,999",R1
+"SMS > estimated household income > $15,000 - $19,999",R1
+"SMS > estimated household income > $20,000 - $24,999",R1
+"SMS > estimated household income > $25,000 - $29,999",R1
+"SMS > estimated household income > $30,000 - $34,999",R1
+"SMS > estimated household income > $35,000 - $39,999",R1
+"SMS > estimated household income > $40,000 - $44,999",R1
+"SMS > estimated household income > $45,000 - $49,999",R1
+"SMS > estimated household income > $50,000 - $54,999",R1
+"SMS > estimated household income > $55,000 - $59,999",R1
+"SMS > estimated household income > $60,000 - $64,999",R1
+"SMS > estimated household income > $65,000 - $74,999",R1
+"SMS > estimated household income > $75,000 - $99,999",R1
+"SMS > estimated household income > $100,000 - $149,999",R1
+"SMS > estimated household income > $150,000 - $174,999",R1
+"SMS > estimated household income > $175,000 - $199,999",R1
+"SMS > estimated household income > $200,000 - $249,999",R1
+"SMS > estimated household income > $250,000 +",R1
+SMS > financial status > payday loans,R1
+"SMS > home market value > $1,000 - $24,999",R1
+"SMS > home market value > $25,000 - $49,999",R1
+"SMS > home market value > $50,000 - $74,999",R1
+"SMS > home market value > $75,000 - $99,999",R1
+"SMS > home market value > $100,000 - $124,999",R1
+"SMS > home market value > $125,000 - $149,999",R1
+"SMS > home market value > $150,000 - $174,999",R1
+"SMS > home market value > $175,000 - $199,999",R1
+"SMS > home market value > $200,000 - $224,999",R1
+"SMS > home market value > $225,000 - $249,999",R1
+"SMS > home market value > $250,000 - $274,999",R1
+"SMS > home market value > $275,000 - $299,999",R1
+"SMS > home market value > $300,000 - $349,999",R1
+"SMS > home market value > $350,000 - $399,999",R1
+"SMS > home market value > $400,000 - $449,999",R1
+"SMS > home market value > $450,000 - $499,999",R1
+"SMS > home market value > $500,000 - $749,999",R1
+"SMS > home market value > $750,000 - $999,999",R1
+"SMS > home market value > $1,000,000 Plus",R1
+SMS > net worth > less than $1,R1
+"SMS > net worth > $1-$4,999",R1
+"SMS > net worth > $5,000-$9,999",R1
+"SMS > net worth > $10,000-$24,999",R1
+"SMS > net worth > $25,000-$49,999",R1
+"SMS > net worth > $50,000-$99,999",R1
+"SMS > net worth > $100,000-$249,999",R1
+"SMS > net worth > $250,00-$499,999",R1
+"SMS > net worth > greater than $499,999",R1
+SMS_New Mover > congressional district > 01,R1
+SMS_New Mover > congressional district > 02,R1
+SMS_New Mover > congressional district > 03,R1
+SMS_New Mover > congressional district > 04,R1
+SMS_New Mover > congressional district > 05,R1
+SMS_New Mover > congressional district > 06,R1
+SMS_New Mover > congressional district > 07,R1
+SMS_New Mover > congressional district > 08,R1
+SMS_New Mover > congressional district > 09,R1
+SMS_New Mover > congressional district > 10,R1
+SMS_New Mover > congressional district > 11,R1
+SMS_New Mover > congressional district > 12,R1
+SMS_New Mover > congressional district > 13,R1
+SMS_New Mover > congressional district > 14,R1
+SMS_New Mover > congressional district > 15,R1
+SMS_New Mover > congressional district > 16,R1
+SMS_New Mover > congressional district > 17,R1
+SMS_New Mover > congressional district > 18,R1
+SMS_New Mover > congressional district > 19,R1
+SMS_New Mover > congressional district > 20,R1
+SMS_New Mover > congressional district > 21,R1
+SMS_New Mover > congressional district > 22,R1
+SMS_New Mover > congressional district > 23,R1
+SMS_New Mover > congressional district > 24,R1
+SMS_New Mover > congressional district > 25,R1
+SMS_New Mover > congressional district > 26,R1
+SMS_New Mover > congressional district > 27,R1
+SMS_New Mover > congressional district > 28,R1
+SMS_New Mover > congressional district > 29,R1
+SMS_New Mover > congressional district > 30,R1
+SMS_New Mover > congressional district > 31,R1
+SMS_New Mover > congressional district > 32,R1
+SMS_New Mover > congressional district > 33,R1
+SMS_New Mover > congressional district > 34,R1
+SMS_New Mover > congressional district > 35,R1
+SMS_New Mover > congressional district > 36,R1
+SMS_New Mover > congressional district > 37,R1
+SMS_New Mover > congressional district > 38,R1
+SMS_New Mover > congressional district > 39,R1
+SMS_New Mover > congressional district > 40,R1
+SMS_New Mover > congressional district > 41,R1
+SMS_New Mover > congressional district > 42,R1
+SMS_New Mover > congressional district > 43,R1
+SMS_New Mover > congressional district > 44,R1
+SMS_New Mover > congressional district > 45,R1
+SMS_New Mover > congressional district > 46,R1
+SMS_New Mover > congressional district > 47,R1
+SMS_New Mover > congressional district > 48,R1
+SMS_New Mover > congressional district > 49,R1
+SMS_New Mover > congressional district > 50,R1
+SMS_New Mover > congressional district > 51,R1
+SMS_New Mover > congressional district > 52,R1
+SMS_New Mover > congressional district > 53,R1
+ShareThis > Finance > Grants Scholarships & Financial Aid,R1
+ShareThis > Finance > Grants Scholarships & Financial Aid > Study Grants & Scholarships,R1
+ShareThis > Interest from Social Activity > Transunion> Finance > Credit & Lending > Category,R1
+ShareThis > Interest from Social Activity > Transunion >Finance > Finance,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $0 - $15K,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $100K+,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $15K - $30K,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $30K - $50K,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $50K - $75K,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > $75K - $100K,R1
+180byTWO > B2C > Demographics > Finances > Discretionary Income > None,R1
+180byTWO > B2C > Demographics > Finances > Income > $100K - $125K,R1
+180byTWO > B2C > Demographics > Finances > Income > $125K - $150K,R1
+180byTWO > B2C > Demographics > Finances > Income > $150K - $200K,R1
+180byTWO > B2C > Demographics > Finances > Income > $200K - $250K,R1
+180byTWO > B2C > Demographics > Finances > Income > $250K+,R1
+180byTWO > B2C > Demographics > Finances > Income > $25K - $50K,R1
+180byTWO > B2C > Demographics > Finances > Income > $50K - $75K,R1
+180byTWO > B2C > Demographics > Finances > Income > $75K - $100K,R1
+180byTWO > B2C > Demographics > Finances > Income > Less Than $25K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $100K - $150K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $150K - $250K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $2.5K - $25K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $250K - $500K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $25K - $50K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $500K - $750K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $50K - $75K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $750K - $1M,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > $75K - $100K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > High ($250K+),R1
+180byTWO > B2C > Demographics > Finances > Net Worth > Low,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > Medium,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > Negative $2.5K - $2.5K,R1
+180byTWO > B2C > Demographics > Finances > Net Worth > Negative $20K - Negative 2.5K,R1
+180byTWO > B2C > Demographics > Finances > Unemployed,R1
+180byTWO > B2C > Housing Status > Home Value > $100K - $150K,R1
+180byTWO > B2C > Housing Status > Home Value > $150K - $200K,R1
+180byTWO > B2C > Housing Status > Home Value > $200K - $250K,R1
+180byTWO > B2C > Housing Status > Home Value > $250K - $300K,R1
+180byTWO > B2C > Housing Status > Home Value > $300K - $350K,R1
+180byTWO > B2C > Housing Status > Home Value > $350K - $400K,R1
+180byTWO > B2C > Housing Status > Home Value > $400K - $450K,R1
+180byTWO > B2C > Housing Status > Home Value > $450K - $500K,R1
+180byTWO > B2C > Housing Status > Home Value > $500K - $550K,R1
+180byTWO > B2C > Housing Status > Home Value > $50K - $100K,R1
+180byTWO > B2C > Housing Status > Home Value > $550K - $600K,R1
+180byTWO > B2C > Housing Status > Home Value > $600K - $650K,R1
+180byTWO > B2C > Housing Status > Home Value > $650K - $700K,R1
+180byTWO > B2C > Housing Status > Home Value > $700K - $750K,R1
+180byTWO > B2C > Housing Status > Home Value > Greater than $750K,R1
+180byTWO > B2C > Housing Status > Home Value > Less than $50K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $0 - $15K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $100K+,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $15K - $30K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $30K - $50K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $50K - $75K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > $75K - $100K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Discretionary Income > None,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $100K - $125K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $125K - $150K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $150K - $200K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $200K - $250K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $250K+,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $25K - $50K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $50K - $75K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > $75K - $100K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Income > Less Than $25K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $100K - $150K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $150K - $250K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $2.5K - $25K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $250K - $500K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $25K - $50K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $500K - $750K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $50K - $75K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $750K - $1M,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > $75K - $100K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > High ($250K+),R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > Low,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > Medium,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > Negative $2.5K - $2.5K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Net Worth > Negative $20K - Negative 2.5K,R1
+180byTWO > B2C Mobile > Demographics > Finances > Unemployed,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $100K - $150K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $150K - $200K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $200K - $250K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $250K - $300K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $300K - $350K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $350K - $400K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $400K - $450K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $450K - $500K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $500K - $550K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $50K - $100K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $550K - $600K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $600K - $650K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $650K - $700K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > $700K - $750K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > Greater than $750K,R1
+180byTWO > B2C Mobile > Housing Status > Home Value > Less than $50K,R1
+Vendigi > Homeowners $1M-$3M value,R1
+Vendigi > Homeowners $3M+ value,R1
+Vendigi > Homeowners $500K-$1M value,R1
+Vendigi > Homeowners with $100K-$250K Equity,R1
+Vendigi > Homeowners with $1M+ Equity,R1
+Vendigi > Homeowners with $250K-$500K Equity,R1
+Vendigi > Homeowners with $25K-$50K Equity,R1
+Vendigi > Homeowners with $500K-$1M Equity,R1
+Vendigi > Homeowners with $50K-$100K Equity,R1
+Vendigi > Wealth Indicator,R1
+L2 Political > IDMLoco_L2_CA_4_Cities_3_13_17.csv > 1,R1
+MaxPoint > Custom > Purchase Intent > Amex Luxury Travel (Mobile - Android),R1
+MaxPoint > Custom > Purchase Intent > Amex Luxury Travel (Mobile - Apple),R1
+MaxPoint > Custom > Purchase Intent > Amex Luxury Travel (Cookie),R1
+IXI > Auto Credit Propensity > Auto Lease - Extremely Likely In Market with Good Credit,R1
+IXI > Auto Credit Propensity > Auto Loan - Extremely Likely In Market with Good Credit,R1
+TransUnion > Consumer Finance > Auto and Property Insurance > Average Aggregated Auto Insurance Risk Tiers > High Loss Ratio,R1
+TransUnion > Consumer Finance > Auto and Property Insurance > Average Aggregated Auto Insurance Risk Tiers > Likelihood of a Low Loss Ratio,R1
+TransUnion > Consumer Finance > Auto and Property Insurance > Average Aggregated Insurance Risk Tiers > Likelihood of a Very High Loss Ratio,R1
+TransUnion > Consumer Finance > Auto and Property Insurance > Average Aggregated Insurance Risk Tiers > Average Loss Ratio,R1
+TransUnion > Consumer Finance > Auto and Property Insurance > Average Aggregated Insurance Risk Tiers > Likelihood of a Very Low Loss Ratio,R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $50,000 - $74,999",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $100,000 - $124,999",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $150,000 - $174,999",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Above $200,000",R1
+TransUnion > Consumer Finance > Credit Behavior > Average Aggregated Credit Tiers > Sub Prime to Near Prime - 2nd Quartile,R1
+TransUnion > Consumer Finance > Credit Behavior > Average Aggregated Credit Tiers > Prime to Super Prime - 4th Quartile (Highest Average Credit Score),R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Less Than $50,000",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $75,000 - $99,999",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $125,000 - $149,999",R1
+"TransUnion > Consumer Finance > Demographic > CreditVision Estimated Household Income > Estimated Income Between $175,000 - $199,999",R1
+TransUnion > Consumer Finance > Credit Behavior > Average Aggregated Credit Tiers > Sub Prime - 1st Quartile (Lowest Average Credit Score),R1
+TransUnion > Consumer Finance > Credit Behavior > Average Aggregated Credit Tiers > Near Prime to Prime - 3rd Quartile,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $100 to $150k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $150 to $200k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $200 to $250k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $250 to $300k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $300 to $350k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $350 to $400k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $400 to $450k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $450 to $500k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $50 to $100k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $500 to $550k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $550 to $600k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $600 to $650k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $650 to $700k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > $700 to $750k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > Under $50k,R1
+BusinessWatch Network > B2C > Housing Status > Home Value Range > more than $750k,R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $100,000 to $124,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $125,000 to $149,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $15,000 to $19,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $20,000 to $29,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $30,000 to $39,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $40,000 to $49,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $50,000 to $74,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $75,000 to $99,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > $150,000 and over",R1
+"BusinessWatch Network > B2C > Financial Standing > Income > Under $15,000",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $100,000 to $149,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $150,000 to $249,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $2,500 to $24,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > Negative $20,000 to negative $2500",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $25,000 to $49,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $250,000 to $499,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $50,000 to $74,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $500,000 to $749,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $75,000 to $99,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > $750,000 to $999,999",R1
+"BusinessWatch Network > B2C > Financial Standing > Net Worth > Less than negative $20,000",R1
+BusinessWatch Network > B2C > Financial Standing > Net Worth > Negative $2499 to $2499,R1
+Factual > Demographic > Income $0-25k,R1
+Factual > Demographic > Income $50-75k,R1
+Factual > Demographic > Income $75-100k,R1
+Factual > Demographic > Income $100-125k,R1
+Factual > Demographic > Income $125-150k,R1
+Factual > Demographic > Income $150-175k,R1
+Factual > Demographic > Income $175-200k,R1
+Factual > Demographic > Income $25-50k,R1
+Factual > Demographic > Income $200-225k,R1
+Factual > Demographic > Race - African American,R1
+Factual > Demographic > Race - Hispanic,R1
+Publishers Clearing House (PCH) > High_CreditScore_Users_1stParty > 1,R1
+Publishers Clearing House (PCH) > Low_CreditScore_Users_1stParty > 1,R1
+"TransUnion > Consumer Finance > Property > Home Value > $800,001 - $1,000,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $600,001- $700,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $450,001 - $500,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $350,001 - $400,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $250,001 - $300,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $150,001 - $200,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > Less than $100,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $700,001 - $1,000,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $400,001 - $500,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $200,001 - $300,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > Less than $100,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $100,000 - $200,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $300,001 - $400,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > $500,001 - $700,000",R1
+"TransUnion > Consumer Finance > Property > Purchase Price > Greater than $1,000,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $100,000 - $150,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $200,001 - $250,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $300,001 - $350,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $400,001 - $450,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $500,001 - $600,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > $700,001 - $800,000",R1
+"TransUnion > Consumer Finance > Property > Home Value > Greater than $1,000,000",R1

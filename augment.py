@@ -1,3 +1,4 @@
+from tqdm import tqdm
 import urllib
 import subprocess
 import requests
@@ -17,12 +18,15 @@ def make_soup(url):
   return tree
 
 def simili(word):
-  tree = make_soup("http://www.thesaurus.com/browse/" + urllib.quote_plus(word))
-  return tree.xpath("//div[@id='synonyms-0']//a[@data-category='{\"name\": \"relevant-3\", \"color\": \"#fcbb45\"}']//span[@class='text']/text()")
+  try:
+    tree = make_soup("http://www.thesaurus.com/browse/" + urllib.quote_plus(word))
+    return tree.xpath("//div[@id='synonyms-0']//a[@data-category='{\"name\": \"relevant-3\", \"color\": \"#fcbb45\"}']//span[@class='text']/text()")
+  except:
+    return []
 
 i = 0
 
-for index, row in csv.iterrows():
+for index, row in tqdm(csv.iterrows(), total=len(csv)):
   word = row['Flag Word']
   flag = row['Possible Rating']
   df.loc[i] = [word, row['Reference category'], row['Possible Rating'], row['Extra Comments']]
